@@ -33290,9 +33290,16 @@
           "name": "Implantação de Saldos",
           "nature": "I",
           "scope": "OUTRO"
+        },
+        {
+          "code": "903",
+          "classification": "4.2.1.05.029",
+          "name": "Despesas com nutricionista",
+          "nature": "",
+          "scope": "RESULTADO"
         }
       ]
     }
   },
-  "updated_at": "2026-11-17T14:29:01"
+  "updated_at": "2026-11-17T15:18:26"
 }
