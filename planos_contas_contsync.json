@@ -3632,7 +3632,3877 @@
           "scope": "OUTRO"
         }
       ]
+    },
+    "738 - ORGANIZAÇÕES AGK": {
+      "name": "738 - ORGANIZAÇÕES AGK",
+      "source": "ContSync Cloud",
+      "accounts": [
+        {
+          "code": "6",
+          "classification": "1.1.1.01.001",
+          "name": "Caixa",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "8",
+          "classification": "1.1.1.02.001",
+          "name": "Banco do Brasil C/C 96000-4",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "444",
+          "classification": "1.1.1.02.002",
+          "name": "Banco Santander Ag:0087 C/C:130093591",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "538",
+          "classification": "1.1.1.02.003",
+          "name": "Banco Itaú",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "765",
+          "classification": "1.1.1.02.004",
+          "name": "Banco Sicredi",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "823",
+          "classification": "1.1.1.02.005",
+          "name": "Banco Mercado Pago",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "10",
+          "classification": "1.1.1.03.001",
+          "name": "Aplicação Financeira Banco do Brasil",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "447",
+          "classification": "1.1.1.03.002",
+          "name": "Aplicação Financeira Santander Contamax",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "553",
+          "classification": "1.1.1.03.003",
+          "name": "Aplicação Financeira Itaú - Aut Mais",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "771",
+          "classification": "1.1.1.03.004",
+          "name": "Aplicação Financeira Itaú - Index Simples Selic",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "772",
+          "classification": "1.1.1.03.005",
+          "name": "Aplicação Financeira Itaú - Cred Banc RF Cred Priv",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "13",
+          "classification": "1.1.2.01.001",
+          "name": "Clientes Diversos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "651",
+          "classification": "1.1.2.01.002",
+          "name": "RM DE SOUZA JUNIOR",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "658",
+          "classification": "1.1.2.01.003",
+          "name": "KPM LOGISTICS AGENC DE CARGAS EIRELI",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "687",
+          "classification": "1.1.2.01.004",
+          "name": "CASA DE PAES DONA FARINHA LTDA",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "15",
+          "classification": "1.1.2.02.001",
+          "name": "Vendas c/Cartão",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "17",
+          "classification": "1.1.2.03.001",
+          "name": "IRPJ a Compensar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "18",
+          "classification": "1.1.2.03.002",
+          "name": "CSLL a Compensar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "19",
+          "classification": "1.1.2.03.003",
+          "name": "PIS a Recuperar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "20",
+          "classification": "1.1.2.03.004",
+          "name": "COFINS a Recuperar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "21",
+          "classification": "1.1.2.03.005",
+          "name": "ICMS a Recuperar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "433",
+          "classification": "1.1.2.03.006",
+          "name": "INSS a Compensar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "729",
+          "classification": "1.1.2.03.007",
+          "name": "Simples a Compensar (Credito adquirido)",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "762",
+          "classification": "1.1.2.03.008",
+          "name": "IPI a Compensar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "799",
+          "classification": "1.1.2.03.009",
+          "name": "ISSQN a Recuperar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "23",
+          "classification": "1.1.2.04.001",
+          "name": "Adiantamento de Viagens",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "25",
+          "classification": "1.1.2.05.001",
+          "name": "Adiantamento de Salário",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "26",
+          "classification": "1.1.2.05.002",
+          "name": "Adiantamento de Férias",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "27",
+          "classification": "1.1.2.05.003",
+          "name": "Adiantamento 13º Salário",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "760",
+          "classification": "1.1.2.05.004",
+          "name": "Empréstimo a Funcionarios",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "29",
+          "classification": "1.1.2.08.001",
+          "name": "Adiantamento a Fornecedores Diversos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "758",
+          "classification": "1.1.2.08.002",
+          "name": "RC Contabilidade e Consultoria",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "100",
+          "classification": "1.1.3.01.001",
+          "name": "Mercadorias para Revenda",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "35",
+          "classification": "1.1.4.01.001",
+          "name": "Despesas do Exercício Seguinte",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "39",
+          "classification": "1.2.1.01.001",
+          "name": "Clientes",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "40",
+          "classification": "1.2.1.01.002",
+          "name": "Créditos de Pessoas Ligadas",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "41",
+          "classification": "1.2.1.01.003",
+          "name": "Títulos e Valores Mobiliarios",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "42",
+          "classification": "1.2.1.01.004",
+          "name": "Títulos de Crédito Coligadas",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "740",
+          "classification": "1.2.1.01.005",
+          "name": "Seguros à Apropriar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "44",
+          "classification": "1.2.1.02.001",
+          "name": "IRPJ a Compensar - Longo Prazo",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "45",
+          "classification": "1.2.1.02.002",
+          "name": "CSLL a Compensar - Longo Prazo",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "46",
+          "classification": "1.2.1.02.003",
+          "name": "PIS a Compensar - Longo Prazo",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "47",
+          "classification": "1.2.1.02.004",
+          "name": "Cofins a Recuperar - Longo Prazo",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "49",
+          "classification": "1.2.1.04.001",
+          "name": "Participação em Controladas e Coligadas",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "50",
+          "classification": "1.2.1.04.002",
+          "name": "Banco Santander Consorcio",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "52",
+          "classification": "1.2.1.05.001",
+          "name": "Terrenos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "53",
+          "classification": "1.2.1.05.002",
+          "name": "Benfeitorias em Propriedades de Terceiros",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "54",
+          "classification": "1.2.1.05.003",
+          "name": "Instalações",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "55",
+          "classification": "1.2.1.05.004",
+          "name": "Maquinas e Equipamentos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "56",
+          "classification": "1.2.1.05.005",
+          "name": "Veículos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "57",
+          "classification": "1.2.1.05.006",
+          "name": "Móveis, Utensílios e Instalações",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "58",
+          "classification": "1.2.1.05.007",
+          "name": "Computadores e Periféricos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "59",
+          "classification": "1.2.1.05.008",
+          "name": "Comodato",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "61",
+          "classification": "1.2.1.06.001",
+          "name": "(-) Depreciação de Máquinas e Equipamentos",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "62",
+          "classification": "1.2.1.06.002",
+          "name": "(-) Depreciação Benfeitorias em Prop. de Terceiros",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "63",
+          "classification": "1.2.1.06.003",
+          "name": "(-) Depreciação Instalações",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "64",
+          "classification": "1.2.1.06.004",
+          "name": "(-) Depreciação Computadores e Periféricos",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "65",
+          "classification": "1.2.1.06.005",
+          "name": "(-) Depreciação Móveis e Utensílios",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "67",
+          "classification": "1.2.1.07.001",
+          "name": "Concessões",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "68",
+          "classification": "1.2.1.07.002",
+          "name": "Marcas e Patentes",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "69",
+          "classification": "1.2.1.07.003",
+          "name": "Direitos Autorais",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "70",
+          "classification": "1.2.1.07.004",
+          "name": "Fundo de Comércio",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "71",
+          "classification": "1.2.1.07.005",
+          "name": "Softwares ou Programas de Computadores",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "72",
+          "classification": "1.2.1.07.006",
+          "name": "Franquias",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "73",
+          "classification": "1.2.1.07.007",
+          "name": "Desenvolvimento de Produtos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "75",
+          "classification": "1.2.1.08.001",
+          "name": "(-) Amortização do Intangível",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "77",
+          "classification": "1.2.1.09.001",
+          "name": "Bens em Comodato",
+          "nature": "I",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "78",
+          "classification": "1.2.1.09.002",
+          "name": "Remessa para Conserto",
+          "nature": "I",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "728",
+          "classification": "1.2.1.10.001",
+          "name": "Gilson do Lago Mariano",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "766",
+          "classification": "1.2.1.10.002",
+          "name": "Empréstimo a Drive In e Restaurante Mac",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "752",
+          "classification": "1.2.1.10.003",
+          "name": "Empréstimo a Portugal Drive-In",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "753",
+          "classification": "1.2.1.10.004",
+          "name": "Empréstimo a Organizações C L",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "773",
+          "classification": "1.2.1.10.005",
+          "name": "Empréstimo a CGK Gestão de Ativos",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "731",
+          "classification": "1.2.1.11.001",
+          "name": "Karla Stephane Santos Lage",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "732",
+          "classification": "1.2.1.11.002",
+          "name": "Carlos Guilherme Santos Lage",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "441",
+          "classification": "2.1.1.01.001",
+          "name": "FORNECEDORES DIVERSOS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "624",
+          "classification": "2.1.1.01.002",
+          "name": "PROVIDER SAUDE CORPORATIVA INTEGRAL LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "625",
+          "classification": "2.1.1.01.003",
+          "name": "INDUSTRIAS FLORIDA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "437",
+          "classification": "2.1.1.01.004",
+          "name": "MONZA EXPRESS LOGISTICA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "448",
+          "classification": "2.1.1.01.005",
+          "name": "LATICINIOS LUCE LTDA - CD MG",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "449",
+          "classification": "2.1.1.01.006",
+          "name": "Cervejaria Tres Lobos Ltda - Epp",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "450",
+          "classification": "2.1.1.01.007",
+          "name": "ORTEP SEG - ORG. TEC. DE PRECISAO EM SEG",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "451",
+          "classification": "2.1.1.01.008",
+          "name": "CONGEBRAS ALIMENTOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "452",
+          "classification": "2.1.1.01.009",
+          "name": "ADEGA MINAS GERAIS COM. DE BEBIDAS EIREL",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "453",
+          "classification": "2.1.1.01.010",
+          "name": "ORTEP ORGANIZACAO TECNICA DE PRECISAO LT",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "454",
+          "classification": "2.1.1.01.011",
+          "name": "CEREALISTA NOVA SAFRA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "458",
+          "classification": "2.1.1.01.012",
+          "name": "DIAMOND PLASTIC INDUSTRIAL EIRELI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "459",
+          "classification": "2.1.1.01.013",
+          "name": "COML.BARATAO MOGI DAS CRUZES LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "460",
+          "classification": "2.1.1.01.014",
+          "name": "SENDAS DISTRIBUIDORA S A LJ81",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "461",
+          "classification": "2.1.1.01.015",
+          "name": "PAMFER COM. DE MAQ. EM GERAL EIRELI-ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "462",
+          "classification": "2.1.1.01.016",
+          "name": "FESTPAN ALIMENTOS IMP E EXP LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "463",
+          "classification": "2.1.1.01.017",
+          "name": "Consigaz Distribuidora de Gas Ltda.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "464",
+          "classification": "2.1.1.01.018",
+          "name": "PANVALE COMERCIO PRODUTOS ALIMENTICIOS L",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "465",
+          "classification": "2.1.1.01.019",
+          "name": "ROCHA PAN IND. E COM. LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "466",
+          "classification": "2.1.1.01.020",
+          "name": "JUVICOL SISTEMAS PARA HIGIENE LTDA.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "467",
+          "classification": "2.1.1.01.021",
+          "name": "MUY LOCO PALETERIA EIRELI - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "468",
+          "classification": "2.1.1.01.022",
+          "name": "MAKRO ATACADISTA SA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "469",
+          "classification": "2.1.1.01.023",
+          "name": "TOTAL CARNES E DERIVADOS LTDA ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "470",
+          "classification": "2.1.1.01.024",
+          "name": "AROUMAR DISTR PROD ALIM LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "471",
+          "classification": "2.1.1.01.025",
+          "name": "BRUNO ALBERT DA SILVA MARTINS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "472",
+          "classification": "2.1.1.01.026",
+          "name": "BRF S.A.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "476",
+          "classification": "2.1.1.01.027",
+          "name": "M A  HAGIO COMERCIO DE VERDURAS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "477",
+          "classification": "2.1.1.01.028",
+          "name": "BINHO FRIOS E LATICINIOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "479",
+          "classification": "2.1.1.01.029",
+          "name": "COOPERATIVA CENTRAL AURORA ALIMENTOS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "480",
+          "classification": "2.1.1.01.030",
+          "name": "DISTRIB. E IMP. IRMAOS AVELINO S.A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "481",
+          "classification": "2.1.1.01.031",
+          "name": "NUTRIX ALIMENTOS LTDA EPP",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "482",
+          "classification": "2.1.1.01.032",
+          "name": "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "483",
+          "classification": "2.1.1.01.033",
+          "name": "Industria de Produtos Alimenticios JO-BR",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "484",
+          "classification": "2.1.1.01.034",
+          "name": "WS DISTRIBUIDORA DE EMBALAGENS DO VALE D",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "485",
+          "classification": "2.1.1.01.035",
+          "name": "EMPORIO KIMOTO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "486",
+          "classification": "2.1.1.01.036",
+          "name": "EUROPANE INDUSTRIA E COM. DE PRODUTOS DE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "487",
+          "classification": "2.1.1.01.037",
+          "name": "Ambev S.A. - CDD Suzano",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "488",
+          "classification": "2.1.1.01.038",
+          "name": "SOUZA CRUZ LTDA.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "489",
+          "classification": "2.1.1.01.039",
+          "name": "NILSON ARAUJO ASSUNCAO ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "490",
+          "classification": "2.1.1.01.040",
+          "name": "BUNGE ALIMENTOS S/A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "491",
+          "classification": "2.1.1.01.041",
+          "name": "DINIZ COM ATAC DE PROD ALIM LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "492",
+          "classification": "2.1.1.01.042",
+          "name": "Anaconda Industrial e Agrícola de Cereai",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "493",
+          "classification": "2.1.1.01.043",
+          "name": "PHILIP MORRIS BRASIL IND. COM. LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "494",
+          "classification": "2.1.1.01.044",
+          "name": "CAFE PAULINO COMERCIO DE CAFE LTDA - EPP",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "495",
+          "classification": "2.1.1.01.045",
+          "name": "AT DISTRIBUIDORA E REPR. DE PRO. E GNERO",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "496",
+          "classification": "2.1.1.01.046",
+          "name": "SIMONE FUSCO EMBALAGENS EPP",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "497",
+          "classification": "2.1.1.01.047",
+          "name": "ANGELA NOVO NICOLETTI COMERCIAL - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "498",
+          "classification": "2.1.1.01.048",
+          "name": "NDM DISTRIBUIDORA DE PRODUTOS ALIMENTICI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "499",
+          "classification": "2.1.1.01.049",
+          "name": "Nestle Brasil Ltda",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "500",
+          "classification": "2.1.1.01.050",
+          "name": "TERUKO MATUKAWA KAWANO ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "501",
+          "classification": "2.1.1.01.051",
+          "name": "EMPRESA DE MINERACAO E AGUAS MINERAIS DI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "502",
+          "classification": "2.1.1.01.052",
+          "name": "CGMP CENTRO DE GESTAO DE MEIOS DE PAGAME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "503",
+          "classification": "2.1.1.01.053",
+          "name": "Vale do Sol Comercial Importadora e Expo",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "504",
+          "classification": "2.1.1.01.054",
+          "name": "ANA MARIA ALVES FERREIRA IVANHES",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "505",
+          "classification": "2.1.1.01.055",
+          "name": "HERMAN FERRAGENS LTDA - EPP",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "506",
+          "classification": "2.1.1.01.056",
+          "name": "GARJEL EMBALAGENS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "507",
+          "classification": "2.1.1.01.057",
+          "name": "MARTINS & FERNANDES BALANCAS LTDA - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "508",
+          "classification": "2.1.1.01.058",
+          "name": "MERCEARIA TRES MARIAS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "509",
+          "classification": "2.1.1.01.059",
+          "name": "CAELLE DISTRIBUIDORA E REPRESENTACOES LT",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "510",
+          "classification": "2.1.1.01.060",
+          "name": "DAVO SUPERMERCADOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "511",
+          "classification": "2.1.1.01.061",
+          "name": "MARCOS ARTIGOS PARA PANIFICACAO LTDA.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "512",
+          "classification": "2.1.1.01.062",
+          "name": "STEVAN WIRTHMANN",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "513",
+          "classification": "2.1.1.01.063",
+          "name": "KENITI NAKAMURA - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "514",
+          "classification": "2.1.1.01.064",
+          "name": "EMBALAGENS MOGIANA COMERCIAL LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "515",
+          "classification": "2.1.1.01.065",
+          "name": "ALEXANDRE ANGELO DE SOUSA 17463537838",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "516",
+          "classification": "2.1.1.01.066",
+          "name": "NICOLETTI COMERCIO DE PRODUTOS ALIMENTIC",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "517",
+          "classification": "2.1.1.01.067",
+          "name": "TECH 2 GO EIRELI - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "518",
+          "classification": "2.1.1.01.068",
+          "name": "SHIBATA EMPORIO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "521",
+          "classification": "2.1.1.01.069",
+          "name": "CHAVEIRO D SA LTDA ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "522",
+          "classification": "2.1.1.01.070",
+          "name": "LA BOTTEGA COMERCIO DE ALIMENTOS E BEBID",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "523",
+          "classification": "2.1.1.01.071",
+          "name": "PASTIFICIO DUE GRANI LTDA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "524",
+          "classification": "2.1.1.01.072",
+          "name": "GRANO NICOLETTI COMERCIO ALIMENTICIO LTD",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "525",
+          "classification": "2.1.1.01.073",
+          "name": "RYCO ALIMENTOS INDUSTRIA E COMERCIO - EI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "526",
+          "classification": "2.1.1.01.074",
+          "name": "RAPHAEL APARECIDO VALENTI DA SILVA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "527",
+          "classification": "2.1.1.01.075",
+          "name": "Karam Abi Ghosn e cia ltda-me",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "32",
+          "classification": "2.1.1.01.076",
+          "name": "CONSIGAZ DISTRIBUIDORA DE GAS LTDA.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "531",
+          "classification": "2.1.1.01.077",
+          "name": "PAULO HENRIQUE CERINO DO AMPARO",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "532",
+          "classification": "2.1.1.01.078",
+          "name": "MARCELO FERNANDES BRINQUEDOS - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "533",
+          "classification": "2.1.1.01.079",
+          "name": "Unilever Brasil Gelados Ltda",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "534",
+          "classification": "2.1.1.01.080",
+          "name": "Unilever Brasil Ltda",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "535",
+          "classification": "2.1.1.01.081",
+          "name": "VANILDO RAMOS SANTINO",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "536",
+          "classification": "2.1.1.01.082",
+          "name": "BRASIL BREAD IND. E COM. DE ALIMENTOS EI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "537",
+          "classification": "2.1.1.01.083",
+          "name": "BRASIL DISTRIB. DE SORVETES E CONG. LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "539",
+          "classification": "2.1.1.01.084",
+          "name": "COMERCIAL SAO JOAO BAPTISTA SA EM RECUPE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "540",
+          "classification": "2.1.1.01.085",
+          "name": "Worksystem Assessoria Em Informatic",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "541",
+          "classification": "2.1.1.01.086",
+          "name": "CARBONES COMERCIO DE CIGARROS LTDA - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "542",
+          "classification": "2.1.1.01.087",
+          "name": "SUPERMERCADO ALABARCE LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "543",
+          "classification": "2.1.1.01.088",
+          "name": "MERC PAN EMBALAGENS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "544",
+          "classification": "2.1.1.01.089",
+          "name": "RIO BRANCO ALIMENTOS S/A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "545",
+          "classification": "2.1.1.01.090",
+          "name": "LATICINIOS TIROLEZ LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "546",
+          "classification": "2.1.1.01.091",
+          "name": "N2SP DISTRIBUIDORA DE ALIMENTOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "547",
+          "classification": "2.1.1.01.092",
+          "name": "MARISTELLA ESTEVES DA CUNHA ALVES GUIMAR",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "548",
+          "classification": "2.1.1.01.093",
+          "name": "ERICSON CAMILO CONTABILIDADE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "549",
+          "classification": "2.1.1.01.094",
+          "name": "EC JUSTINO CIA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "550",
+          "classification": "2.1.1.01.095",
+          "name": "VANESSA TATIANE SANT ANA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "551",
+          "classification": "2.1.1.01.096",
+          "name": "C F ESTRELA COMERCIO VAREJISTA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "552",
+          "classification": "2.1.1.01.097",
+          "name": "EMULZINT ADITIVOS ALIMENTICIOS IND. COM.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "626",
+          "classification": "2.1.1.01.098",
+          "name": "MESO - MEDICINA EM SAUDE OCUPACIONAL LTD",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "627",
+          "classification": "2.1.1.01.099",
+          "name": "QUALISAN-QUALIDADE EM CONSULTORIA SANITA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "628",
+          "classification": "2.1.1.01.100",
+          "name": "VR BENEFICIOS E SERVICOS DE PROCESSAMENT",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "629",
+          "classification": "2.1.1.01.101",
+          "name": "TICKET SERVICOS SA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "556",
+          "classification": "2.1.1.01.102",
+          "name": "MARILENA FERNANDES DE LIMA CASTRO ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "557",
+          "classification": "2.1.1.01.103",
+          "name": "Dia Comercio de carnes Ltda",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "558",
+          "classification": "2.1.1.01.104",
+          "name": "ESPOLIO DE OROSTRATO OLAVO SILVA BARBOSA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "559",
+          "classification": "2.1.1.01.105",
+          "name": "L R - WASH LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "560",
+          "classification": "2.1.1.01.106",
+          "name": "W. M. TRIBONI CONTROLE DE PRAGAS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "561",
+          "classification": "2.1.1.01.107",
+          "name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "562",
+          "classification": "2.1.1.01.108",
+          "name": "HORIZONTAL COMERCIAL E DISTRIBUIDORA LTD",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "563",
+          "classification": "2.1.1.01.109",
+          "name": "JORGE APARECIDO DA SILVA REPRESENTACOES",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "564",
+          "classification": "2.1.1.01.110",
+          "name": "DALMEC ASSISTENCIA TECNICA E COMERCIO DE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "565",
+          "classification": "2.1.1.01.111",
+          "name": "BIGPAN IND. E COM. ALIMENTOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "566",
+          "classification": "2.1.1.01.112",
+          "name": "C. I. SERVIÇOS E COMERCIO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "567",
+          "classification": "2.1.1.01.113",
+          "name": "W D Y CONTROLE DE PRAGAS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "568",
+          "classification": "2.1.1.01.114",
+          "name": "R.A PACK EMBALAGENS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "569",
+          "classification": "2.1.1.01.115",
+          "name": "SENDAS DISTRIBUIDORA S A LJ165",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "631",
+          "classification": "2.1.1.01.116",
+          "name": "CRISTIANE PALMA NARVAIS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "632",
+          "classification": "2.1.1.01.117",
+          "name": "BELLA FRUTA MOGI HORTIFRUTI LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "633",
+          "classification": "2.1.1.01.118",
+          "name": "Kalunga Comercio e Industria Grafica Ltd",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "634",
+          "classification": "2.1.1.01.119",
+          "name": "BOI DE OURO PREMIUM ACOUGUE LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "637",
+          "classification": "2.1.1.01.120",
+          "name": "NOVA OPCAO DISTRIBUIDORA DE ALIMENTOS LT",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "638",
+          "classification": "2.1.1.01.121",
+          "name": "ROSANGELA DE SIQUEIRA LIMA MANUTENCAO",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "639",
+          "classification": "2.1.1.01.122",
+          "name": "FRAN PAPEL COMERCIAL LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "640",
+          "classification": "2.1.1.01.123",
+          "name": "COMERCIAL OSVALDO TARORA LTDA.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "641",
+          "classification": "2.1.1.01.124",
+          "name": "SOLUCOES TRIALTEC LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "644",
+          "classification": "2.1.1.01.125",
+          "name": "BELLA MOGI HORTIFRUTI LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "645",
+          "classification": "2.1.1.01.126",
+          "name": "KAZUHIKO INO E OUTRO GRANJA INO",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "646",
+          "classification": "2.1.1.01.127",
+          "name": "AMANDA ALIPERTI FERREIRA DA SILVA - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "647",
+          "classification": "2.1.1.01.128",
+          "name": "FLAMIN MINERACAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "648",
+          "classification": "2.1.1.01.129",
+          "name": "J V C DISTRIBUIDORA DE LATICINIOS LTDA -",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "649",
+          "classification": "2.1.1.01.130",
+          "name": "LACTALIS DO BRASIL CD SP",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "650",
+          "classification": "2.1.1.01.131",
+          "name": "CABO FRIO PECAS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "652",
+          "classification": "2.1.1.01.132",
+          "name": "LIGAMIDIA SOLUÇOES DIGITAIS EIRELI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "654",
+          "classification": "2.1.1.01.133",
+          "name": "UNIFORT COZINHAS PROFISSIONAIS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "655",
+          "classification": "2.1.1.01.134",
+          "name": "PAULO ANTONIO FERREIRA JUNIOR",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "656",
+          "classification": "2.1.1.01.135",
+          "name": "CAELLE DISTRIBUIDORA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "657",
+          "classification": "2.1.1.01.136",
+          "name": "P PAN PRODUTOS PARA PANIFICACaO E CONFEI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "660",
+          "classification": "2.1.1.01.137",
+          "name": "E S LEANDRO EXTINTORES",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "661",
+          "classification": "2.1.1.01.138",
+          "name": "Sorveteria Mucho Loko Eireli Me",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "662",
+          "classification": "2.1.1.01.139",
+          "name": "SIXWINE COMERCIAL LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "663",
+          "classification": "2.1.1.01.140",
+          "name": "IATAGAM COMERCIO DE PRODUTOS ALIMENTICIO",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "664",
+          "classification": "2.1.1.01.141",
+          "name": "CASA FLORA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "665",
+          "classification": "2.1.1.01.142",
+          "name": "IFOOD.COM AGENCIA DE RESTAURANTES ONLINE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "666",
+          "classification": "2.1.1.01.143",
+          "name": "DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS M",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "667",
+          "classification": "2.1.1.01.144",
+          "name": "HNK BR LOGISTICA E DISTRIBUICAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "668",
+          "classification": "2.1.1.01.145",
+          "name": "AUTO POSTO ARUA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "669",
+          "classification": "2.1.1.01.146",
+          "name": "GISELE JACQUE DE ANDRADE HEIN 3387590580",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "670",
+          "classification": "2.1.1.01.147",
+          "name": "UNO COMERCIO DE MATERIAIS ELETRICOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "671",
+          "classification": "2.1.1.01.148",
+          "name": "CONSTRUDECOR S.A - MOGI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "672",
+          "classification": "2.1.1.01.149",
+          "name": "MARCELO LOPES LIMA-MOGI DAS CRUZES - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "673",
+          "classification": "2.1.1.01.150",
+          "name": "Arua Servicos Premium Ltda",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "674",
+          "classification": "2.1.1.01.151",
+          "name": "SABRINA ROSA BARBOSA ALEXAL - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "675",
+          "classification": "2.1.1.01.152",
+          "name": "CLAUDIA SANTOS RIBEIRO OLIVEIRA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "676",
+          "classification": "2.1.1.01.153",
+          "name": "TOTVS LARGE ENTERPRISE TECNOLOGIA S.A.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "677",
+          "classification": "2.1.1.01.154",
+          "name": "Globalvac Industria e Comercio de Maquin",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "678",
+          "classification": "2.1.1.01.155",
+          "name": "MARIO H. MATSUMOTO - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "679",
+          "classification": "2.1.1.01.156",
+          "name": "FUTURA COMERCIAL TRADING LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "680",
+          "classification": "2.1.1.01.157",
+          "name": "Silvio Lage Moraes",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "681",
+          "classification": "2.1.1.01.158",
+          "name": "KAMIMURA SHOPPING DA CONSTRUCAO LTDA - E",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "682",
+          "classification": "2.1.1.01.159",
+          "name": "Bom Bife Arujá Ltda",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "683",
+          "classification": "2.1.1.01.160",
+          "name": "NETTER INDL COML LT",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "684",
+          "classification": "2.1.1.01.161",
+          "name": "NET LIGHT LTDA.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "685",
+          "classification": "2.1.1.01.162",
+          "name": "INVERNO D'ITALIA CAFETERIA - EIRELI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "686",
+          "classification": "2.1.1.01.163",
+          "name": "RUTE BATISTA DE SOUZA ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "688",
+          "classification": "2.1.1.01.164",
+          "name": "SELOSERV SERVICOS E COMERCIO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "689",
+          "classification": "2.1.1.01.165",
+          "name": "GUILHERME CAMPOS TI SOLUÇÕES",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "690",
+          "classification": "2.1.1.01.166",
+          "name": "E NUNES LOPES",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "691",
+          "classification": "2.1.1.01.167",
+          "name": "LIGAMIDIA CONCEITO DIGITAL E COMUNICACAO",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "692",
+          "classification": "2.1.1.01.168",
+          "name": "CASA DE PAES DONA FARINHA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "693",
+          "classification": "2.1.1.01.169",
+          "name": "Jean Silvério da Silva - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "694",
+          "classification": "2.1.1.01.170",
+          "name": "JOSE RAIMUNDO RIBEIRO OLIVEIRA 126252128",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "695",
+          "classification": "2.1.1.01.171",
+          "name": "A DOS SANTOS - MANUTENCAO E INSTALACAO H",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "696",
+          "classification": "2.1.1.01.172",
+          "name": "CAIXA CARTOES PRE-PAGOS S.A.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "697",
+          "classification": "2.1.1.01.173",
+          "name": "CERTISIGN CERTIFICADORA DIGITAL S.A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "698",
+          "classification": "2.1.1.01.174",
+          "name": "MARCO AURELIO FRANCISCO DA SILVA 0424645",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "699",
+          "classification": "2.1.1.01.175",
+          "name": "PRECOLANDIA COMERCIAL LTDA - LOJA 07",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "700",
+          "classification": "2.1.1.01.176",
+          "name": "VIA VAREJO S/A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "701",
+          "classification": "2.1.1.01.177",
+          "name": "RICARDO PAES DOS SANTOS 05711646842",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "702",
+          "classification": "2.1.1.01.178",
+          "name": "E C F - COMERCIAL REGISTRADORAS EIRELI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "703",
+          "classification": "2.1.1.01.179",
+          "name": "LATICINIOS SANTIAGO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "704",
+          "classification": "2.1.1.01.180",
+          "name": "W2W E-COMMERCE DE VINHOS S/A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "705",
+          "classification": "2.1.1.01.181",
+          "name": "JBS GESSO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "706",
+          "classification": "2.1.1.01.182",
+          "name": "DISTRIBUIDORA E IMPORTADORA IRMAOS AVELI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "707",
+          "classification": "2.1.1.01.183",
+          "name": "MUY LOCO PALETERIA EIRELI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "708",
+          "classification": "2.1.1.01.184",
+          "name": "CBB DISTRIBUIDORA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "709",
+          "classification": "2.1.1.01.185",
+          "name": "LONDRES COMERCIO DE CARNES E DERIVADOS L",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "710",
+          "classification": "2.1.1.01.186",
+          "name": "WILLIAN APARECIDO DA SILVA 37723594852",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "711",
+          "classification": "2.1.1.01.187",
+          "name": "SENDAS DISTRIBUIDORA S/A LJ265",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "712",
+          "classification": "2.1.1.01.188",
+          "name": "Loja Claudia Com. de Variedades LTDA - E",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "713",
+          "classification": "2.1.1.01.189",
+          "name": "SMART DRM DISTRIBUIDORA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "714",
+          "classification": "2.1.1.01.190",
+          "name": "CENTRO AUTOMOTIVO TULIPA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "715",
+          "classification": "2.1.1.01.191",
+          "name": "WORKSYSTEM ASS EM INFORMATICA LTDA ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "716",
+          "classification": "2.1.1.01.192",
+          "name": "PAMA COMERCIO DE GENEROS ALIMENTICIOS LT",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "717",
+          "classification": "2.1.1.01.193",
+          "name": "PANVALE DISTRIBUIDORA DE PRODUTOS ALIMEN",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "718",
+          "classification": "2.1.1.01.194",
+          "name": "PAIVA PNEUS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "719",
+          "classification": "2.1.1.01.195",
+          "name": "CADBURY CANDY & TOYS DISTRIBUIDORA DE PR",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "722",
+          "classification": "2.1.1.01.196",
+          "name": "DISTRIBUIDORA OURO FINO DE GEN ALIM LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "723",
+          "classification": "2.1.1.01.197",
+          "name": "M.PIRES FERNANDES & CIA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "724",
+          "classification": "2.1.1.01.198",
+          "name": "MART MINAS DISTRIBUICAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "725",
+          "classification": "2.1.1.01.199",
+          "name": "SELLPACK COMERCIO DE EMBALAGENS LTDA ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "726",
+          "classification": "2.1.1.01.200",
+          "name": "DISTRIBUIDORA IRMAOS FONSECA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "736",
+          "classification": "2.1.1.01.201",
+          "name": "CHARTCR2 PRESTACOES DE SERVICOS DE INFOR",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "737",
+          "classification": "2.1.1.01.202",
+          "name": "CONSORCIO OTIMO DE BILHETAGEM ELETRONICA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "738",
+          "classification": "2.1.1.01.203",
+          "name": "CONSORCIO OPERACIONAL DO TRANSPORTE COLE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "741",
+          "classification": "2.1.1.01.204",
+          "name": "PORTO SEGUROS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "747",
+          "classification": "2.1.1.01.205",
+          "name": "MIXMED PROSAUDE MEDICINA PREVENTIVA E DI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "748",
+          "classification": "2.1.1.01.206",
+          "name": "BOOKING.COM BRASIL SERVIÇOS DE RESERVA DE HOTEIS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "749",
+          "classification": "2.1.1.01.207",
+          "name": "EXPEDIA DO BRASIL AGENCIA DE VIAGENS E TURISMO LTD",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "751",
+          "classification": "2.1.1.01.208",
+          "name": "BOKING COM BRASIL SERVICOS DE RESERVA DE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "754",
+          "classification": "2.1.1.01.209",
+          "name": "SOLAR POWER ENERGY DISTRIBUICAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "755",
+          "classification": "2.1.1.01.210",
+          "name": "SOLAR POWER GD LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "756",
+          "classification": "2.1.1.01.211",
+          "name": "SOLAR POWER ENERGY LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "757",
+          "classification": "2.1.1.01.212",
+          "name": "Marmita Fitness LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "763",
+          "classification": "2.1.1.01.213",
+          "name": "EPI COMERCIO E DISTRIBUICAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "764",
+          "classification": "2.1.1.01.214",
+          "name": "CNT AMBIENTAL EQUIPAMENTOS, PRODUTOS E S",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "767",
+          "classification": "2.1.1.01.215",
+          "name": "PRO SAUDE BRASIL ASSISTENCIA MEDICA FAMI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "768",
+          "classification": "2.1.1.01.216",
+          "name": "RR CONTABILIDADE E CONSULTORIA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "770",
+          "classification": "2.1.1.01.217",
+          "name": "PD BRASIL ASSISTENCIA ODONTOLOGICA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "774",
+          "classification": "2.1.1.01.218",
+          "name": "BOM GAS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "775",
+          "classification": "2.1.1.01.219",
+          "name": "CLARO S.A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "776",
+          "classification": "2.1.1.01.220",
+          "name": "NACIONAL GAS BUTANO DISTRIBUIDORA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "777",
+          "classification": "2.1.1.01.221",
+          "name": "Senhora Pipoca",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "778",
+          "classification": "2.1.1.01.222",
+          "name": "ALLIANCE DO BRASIL MAQUINAS DE LAVANDERI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "779",
+          "classification": "2.1.1.01.223",
+          "name": "HDI SEGUROS S.A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "780",
+          "classification": "2.1.1.01.224",
+          "name": "MEDGOLD ASSISTENCIA MEDICA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "781",
+          "classification": "2.1.1.01.225",
+          "name": "SALDAVEE COMIDA FIT LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "782",
+          "classification": "2.1.1.01.226",
+          "name": "VERSATIL SISTEMAS & AUTOMACAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "783",
+          "classification": "2.1.1.01.227",
+          "name": "DARIO RUDOLFO BEGROW 91880882000",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "784",
+          "classification": "2.1.1.01.228",
+          "name": "BOCAO ATACADO ARMARINHO E BIJOTERIA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "785",
+          "classification": "2.1.1.01.229",
+          "name": "WL COMERCIO ATACADO E VAREJO DE BEBIDAS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "786",
+          "classification": "2.1.1.01.230",
+          "name": "COMERCIAL DAHANA LIMITADA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "787",
+          "classification": "2.1.1.01.231",
+          "name": "MCLE AGUAS NATURAIS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "788",
+          "classification": "2.1.1.01.232",
+          "name": "DEPOSITO PAQUETA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "789",
+          "classification": "2.1.1.01.233",
+          "name": "3G TINTAS LTDA - ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "790",
+          "classification": "2.1.1.01.234",
+          "name": "NADIL MATERIAIS DE CONSTRUCAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "791",
+          "classification": "2.1.1.01.235",
+          "name": "COMERCIAL DE BOMBAS E MOTORES LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "792",
+          "classification": "2.1.1.01.236",
+          "name": "E. RICARDO DE SANTANA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "793",
+          "classification": "2.1.1.01.237",
+          "name": "EBAZAR.COM.BR. LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "794",
+          "classification": "2.1.1.01.238",
+          "name": "LOJA ELETRICA LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "795",
+          "classification": "2.1.1.01.239",
+          "name": "DISTRIBUIDORA SUPER FORTE",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "796",
+          "classification": "2.1.1.01.240",
+          "name": "MAETO.COM LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "797",
+          "classification": "2.1.1.01.241",
+          "name": "CITEX - MATERIAL ELETRICO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "798",
+          "classification": "2.1.1.01.242",
+          "name": "PB PONTO DO BOMBEIRO MAT.HID. LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "800",
+          "classification": "2.1.1.01.243",
+          "name": "POSTO ATLANTICO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "801",
+          "classification": "2.1.1.01.244",
+          "name": "DEPOSITO NOSSO MAT. CONST LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "802",
+          "classification": "2.1.1.01.245",
+          "name": "Viana e Bargas Comercio Atacadista de Em",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "803",
+          "classification": "2.1.1.01.246",
+          "name": "ITA MOVEIS LTDA ME",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "804",
+          "classification": "2.1.1.01.247",
+          "name": "JC DECOR PLASTICOS E TECIDOS EIRELI",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "805",
+          "classification": "2.1.1.01.248",
+          "name": "CARREFOUR COM. E IND. LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "808",
+          "classification": "2.1.1.01.249",
+          "name": "49.249.336 RODRIGO FERREIRA ANTUNES",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "809",
+          "classification": "2.1.1.01.250",
+          "name": "GMC COMPONENTES ELETRICOS E AUTOMACAO LT",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "810",
+          "classification": "2.1.1.01.251",
+          "name": "PEMATHI BLOQUEADOR DE AR LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "811",
+          "classification": "2.1.1.01.252",
+          "name": "DISTRIBUIDORA OURO FINO GEN ALIM LTDA (0",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "812",
+          "classification": "2.1.1.01.253",
+          "name": "G13 IMPORTACAO E EXPORTACAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "813",
+          "classification": "2.1.1.01.254",
+          "name": "RBV DELALANA CASA E CONSTRUCAO LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "814",
+          "classification": "2.1.1.01.255",
+          "name": "MB MERCANTIL COMERCIO DE BOMBAS E IRRIGA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "815",
+          "classification": "2.1.1.01.256",
+          "name": "64.138.756 RUDNEY ANDRADE DOS SANTOS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "819",
+          "classification": "2.1.1.01.257",
+          "name": "THERMAC CONTROLES INDUSTRIAIS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "820",
+          "classification": "2.1.1.01.258",
+          "name": "ROLIMAC ROLAMENTOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "821",
+          "classification": "2.1.1.01.259",
+          "name": "GUIA DE MOTEIS COMUNICACAO LTDA.",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "822",
+          "classification": "2.1.1.01.260",
+          "name": "AMBIENTE SANEAMENTO URBANO E RURAL LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "199",
+          "classification": "2.1.1.02.001",
+          "name": "Adiantamento de Clientes",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "201",
+          "classification": "2.1.1.03.001",
+          "name": "Emprestimo BNDES COVID",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "635",
+          "classification": "2.1.1.03.002",
+          "name": "Operação Repasse 60235267-01/001-A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "636",
+          "classification": "2.1.1.03.003",
+          "name": "Operação Repasse 60222414-01/001-A",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "653",
+          "classification": "2.1.1.03.004",
+          "name": "Conta Garantida Santander",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "203",
+          "classification": "2.1.1.04.001",
+          "name": "Arrendamento Mercantil",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "207",
+          "classification": "2.1.1.05.003",
+          "name": "Inss a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "208",
+          "classification": "2.1.1.05.004",
+          "name": "Fgts a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "209",
+          "classification": "2.1.1.05.005",
+          "name": "Contribuição Sindical a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "210",
+          "classification": "2.1.1.05.006",
+          "name": "Contribuição Confederativa a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "226",
+          "classification": "2.1.1.05.007",
+          "name": "Salários e Encargos a Pagar",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "227",
+          "classification": "2.1.1.05.008",
+          "name": "Pro-labore a Pagar",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "436",
+          "classification": "2.1.1.05.009",
+          "name": "Mensalidade Sindical a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "221",
+          "classification": "2.1.1.05.010",
+          "name": "Ir S/ Folha de Pagto",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "623",
+          "classification": "2.1.1.05.011",
+          "name": "Pensão alimentícia a Pagar",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "642",
+          "classification": "2.1.1.05.012",
+          "name": "Contribuição Assistencial",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "215",
+          "classification": "2.1.1.06.001",
+          "name": "Pis / Cofins / Csll - 4,65%",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "216",
+          "classification": "2.1.1.06.002",
+          "name": "Irrf S/ Notas Fiscais",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "217",
+          "classification": "2.1.1.06.003",
+          "name": "Issqn Retido",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "218",
+          "classification": "2.1.1.06.004",
+          "name": "Inss Retido S/ Notas Fiscais",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "219",
+          "classification": "2.1.1.06.005",
+          "name": "IRRF S/ Aluguel",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "220",
+          "classification": "2.1.1.06.006",
+          "name": "Contribuição Previdenciária s/ Receita Bruta  CPRB",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "213",
+          "classification": "2.1.1.06.008",
+          "name": "ISSQN a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "212",
+          "classification": "2.1.1.06.009",
+          "name": "ICMS a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "205",
+          "classification": "2.1.1.06.010",
+          "name": "Pis a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "206",
+          "classification": "2.1.1.06.011",
+          "name": "Cofins a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "473",
+          "classification": "2.1.1.06.012",
+          "name": "Simples a Recolher",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "659",
+          "classification": "2.1.1.06.013",
+          "name": "ICMS ST SAIDAS",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "475",
+          "classification": "2.1.1.07.013",
+          "name": "Parcelamento Simples Nacional",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "630",
+          "classification": "2.1.1.07.014",
+          "name": "Parcelamento Transação Excepcional",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "806",
+          "classification": "2.1.1.07.015",
+          "name": "Parcelamento D. Ativa - 16679489",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "807",
+          "classification": "2.1.1.07.016",
+          "name": "(-) Juros a Transcorrer - Parc. D. Ativa 16679489",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "223",
+          "classification": "2.1.1.08.001",
+          "name": "Provisão IRPJ",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "224",
+          "classification": "2.1.1.08.002",
+          "name": "Provisão CSLL",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "442",
+          "classification": "2.1.1.09.001",
+          "name": "(-)Juros a Transcorrer Sobre Financ.e Parcelamento",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "457",
+          "classification": "2.1.1.10.001",
+          "name": "Dividendos a Pagar - Carlos Guilherme Santos Lage",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "744",
+          "classification": "2.1.1.10.002",
+          "name": "Dividendos a Pagar - Karla Stephane Santos Lage",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "231",
+          "classification": "2.2.1.01.001",
+          "name": "Fornecedores",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "233",
+          "classification": "2.2.1.02.001",
+          "name": "Financiamentos",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "554",
+          "classification": "2.2.1.02.002",
+          "name": "Casa de Pães Dona Farinha",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "235",
+          "classification": "2.2.1.03.001",
+          "name": "Comodato",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "439",
+          "classification": "2.2.1.04.001",
+          "name": "Parcelamentos Simples Nacional",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "816",
+          "classification": "2.2.1.04.002",
+          "name": "Parcelamento D. Ativa - 16679489",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "817",
+          "classification": "2.2.1.04.003",
+          "name": "(-) Juros a Transcorrer - Parc. Div.Ativa 16679489",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "445",
+          "classification": "2.2.1.05.001",
+          "name": "ORGANIZAÇÕES CL LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "742",
+          "classification": "2.2.1.05.002",
+          "name": "AGK NUTRI LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "745",
+          "classification": "2.2.1.05.003",
+          "name": "CGK GESTÃO DE ATIVOS LTDA",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "239",
+          "classification": "2.3.1.01.001",
+          "name": "Paulo Roberto Duarte de Almeida - 95%",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "240",
+          "classification": "2.3.1.01.002",
+          "name": "Eliana Maria Spina Duarte de Almeida - 5%",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "720",
+          "classification": "2.3.1.01.003",
+          "name": "Carlos Guilherme Santos Lage",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "721",
+          "classification": "2.3.1.01.004",
+          "name": "Karla Stephane Santos Lage",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "242",
+          "classification": "2.3.1.02.001",
+          "name": "(-) Capital Social a Integralizar",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "245",
+          "classification": "2.3.2.01.001",
+          "name": "Ágio na Emissão de Ações",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "246",
+          "classification": "2.3.2.01.002",
+          "name": "Reserva Especial de Ágio na Incorporação",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "247",
+          "classification": "2.3.2.01.003",
+          "name": "Alienação de Partes Beneficiárias",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "248",
+          "classification": "2.3.2.01.004",
+          "name": "Alienação de Bônus de Subscrição",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "250",
+          "classification": "2.3.2.02.001",
+          "name": "Reserva Legal",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "251",
+          "classification": "2.3.2.02.002",
+          "name": "Reservas Estatutárias",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "252",
+          "classification": "2.3.2.02.003",
+          "name": "Reservas Para Contingências",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "253",
+          "classification": "2.3.2.02.004",
+          "name": "Reservas de Lucros",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "254",
+          "classification": "2.3.2.02.005",
+          "name": "Reserva de Lucros para Expansão",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "255",
+          "classification": "2.3.2.02.006",
+          "name": "Reserva de Incentivos Fiscais",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "256",
+          "classification": "2.3.2.02.007",
+          "name": "Reserva Especial Dividendo Obr Não Distribuidos",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "259",
+          "classification": "2.3.4.01.001",
+          "name": "Ajuste de Avaliação às Normas Internacionais de Co",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "260",
+          "classification": "2.3.4.01.002",
+          "name": "(-) Ajuste de Avaliação às Normas Internacionais",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "263",
+          "classification": "2.3.5.01.001",
+          "name": "Lucros Apurados / Saldos a Disposição de Assembléi",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "264",
+          "classification": "2.3.5.01.002",
+          "name": "(-) Prejuízos Acumulados",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "265",
+          "classification": "2.3.5.01.003",
+          "name": "(-) Prejuízo Apurado Exercício",
+          "nature": "D",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "267",
+          "classification": "2.3.5.02.001",
+          "name": "Lucros Apurados / Saldos a Distribuir",
+          "nature": "C",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "271",
+          "classification": "2.4.1.01.001",
+          "name": "Bens em Comodato",
+          "nature": "I",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "272",
+          "classification": "2.4.1.01.002",
+          "name": "Remessa para Conserto",
+          "nature": "I",
+          "scope": "PATRIMONIAL"
+        },
+        {
+          "code": "277",
+          "classification": "3.1.1.01.001",
+          "name": "Receita Bruta de Venda Mercadorias",
+          "nature": "C",
+          "scope": "OUTRO"
+        },
+        {
+          "code": "278",
+          "classification": "3.1.1.01.002",
+          "name": "Receita Bruta de Venda Produtos",
+          "nature": "C",
+          "scope": "OUTRO"
+        },
+        {
+          "code": "279",
+          "classification": "3.1.1.01.003",
+          "name": "Receita Bruta de Venda Prest. Serviços",
+          "nature": "C",
+          "scope": "OUTRO"
+        },
+        {
+          "code": "280",
+          "classification": "3.1.1.01.004",
+          "name": "Bonificação",
+          "nature": "C",
+          "scope": "OUTRO"
+        },
+        {
+          "code": "283",
+          "classification": "3.1.2.01.001",
+          "name": "Vendas Canceladas/Devoluções/Desc. Incondicionais",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "285",
+          "classification": "3.1.2.02.001",
+          "name": "ICMS",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "286",
+          "classification": "3.1.2.02.002",
+          "name": "ISSQN",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "287",
+          "classification": "3.1.2.02.003",
+          "name": "PIS",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "288",
+          "classification": "3.1.2.02.004",
+          "name": "COFINS",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "478",
+          "classification": "3.1.2.02.005",
+          "name": "Contribuição Previdenciária s/ Receita Bruta CPRB",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "474",
+          "classification": "3.1.2.02.006",
+          "name": "Simples Nacional",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "293",
+          "classification": "4.1.1.01.001",
+          "name": "Estoque Inicial",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "294",
+          "classification": "4.1.1.01.002",
+          "name": "Compra de Mercadorias a Prazo",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "295",
+          "classification": "4.1.1.01.003",
+          "name": "Compra de Mercadorias à Vista",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "296",
+          "classification": "4.1.1.01.004",
+          "name": "(-) Estoque Final",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "297",
+          "classification": "4.1.1.01.005",
+          "name": "(-) ICMS S/ Compras",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "298",
+          "classification": "4.1.1.01.006",
+          "name": "(-) PIS S/ Compras",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "299",
+          "classification": "4.1.1.01.007",
+          "name": "(-) COFINS S/ Compras",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "300",
+          "classification": "4.1.1.01.008",
+          "name": "Bonificação",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "301",
+          "classification": "4.1.1.01.009",
+          "name": "Material de Uso e Consumo",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "761",
+          "classification": "4.1.1.01.010",
+          "name": "(-) IPI S/ Compras",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "303",
+          "classification": "4.1.1.02.001",
+          "name": "Custo das Mercadorias Vendidas (CMV)",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "307",
+          "classification": "4.2.1.01.001",
+          "name": "Retirada Pró-Labore",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "308",
+          "classification": "4.2.1.01.002",
+          "name": "Ordenados e Salários",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "309",
+          "classification": "4.2.1.01.003",
+          "name": "Provisão para Férias",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "310",
+          "classification": "4.2.1.01.004",
+          "name": "Provisão para 13º Salário",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "311",
+          "classification": "4.2.1.01.005",
+          "name": "Férias",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "312",
+          "classification": "4.2.1.01.006",
+          "name": "Rescisões",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "313",
+          "classification": "4.2.1.01.007",
+          "name": "Previdência Social - INSS",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "314",
+          "classification": "4.2.1.01.008",
+          "name": "Fundo de Garantia do Trabalhador - FGTS",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "315",
+          "classification": "4.2.1.01.009",
+          "name": "Despesas com Alimentação do Trabalhador",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "316",
+          "classification": "4.2.1.01.010",
+          "name": "Despesas com Vale Transporte",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "317",
+          "classification": "4.2.1.01.011",
+          "name": "Assistência Médica e Planos de Saúde",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "318",
+          "classification": "4.2.1.01.012",
+          "name": "Participação nos Lucros",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "319",
+          "classification": "4.2.1.01.013",
+          "name": "Contribuição Previdenciária Terceiros (Ses/Senai)",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "320",
+          "classification": "4.2.1.01.014",
+          "name": "Indenizações Trabalhistas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "321",
+          "classification": "4.2.1.01.015",
+          "name": "Gratificação a Empregados",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "322",
+          "classification": "4.2.1.01.016",
+          "name": "Ajuda de Custos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "323",
+          "classification": "4.2.1.01.017",
+          "name": "Materiais de Proteção",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "324",
+          "classification": "4.2.1.01.018",
+          "name": "Seguro de Vida Coletivo",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "325",
+          "classification": "4.2.1.01.019",
+          "name": "Exame Admissional",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "326",
+          "classification": "4.2.1.01.020",
+          "name": "Despesas Médicas Ocupacionais",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "530",
+          "classification": "4.2.1.01.021",
+          "name": "Fatura Cartão Empresarial",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "328",
+          "classification": "4.2.1.04.001",
+          "name": "Recepção e representação",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "329",
+          "classification": "4.2.1.04.002",
+          "name": "Despesas com conservação e manutenção",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "330",
+          "classification": "4.2.1.04.003",
+          "name": "Outras doações e contribuições",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "331",
+          "classification": "4.2.1.04.004",
+          "name": "Formação profissional de empregados",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "332",
+          "classification": "4.2.1.04.005",
+          "name": "Materiais de higiêne e medicamentos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "333",
+          "classification": "4.2.1.04.006",
+          "name": "Recrutamento de pessoal",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "334",
+          "classification": "4.2.1.04.007",
+          "name": "Despesas legais e jurídicas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "335",
+          "classification": "4.2.1.04.008",
+          "name": "Despesas de Viagens - Operacional",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "336",
+          "classification": "4.2.1.04.009",
+          "name": "Seguro de Veículos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "337",
+          "classification": "4.2.1.04.010",
+          "name": "Assinaturas de jornais e revistas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "338",
+          "classification": "4.2.1.04.011",
+          "name": "Oxigênio e outros gases",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "339",
+          "classification": "4.2.1.04.012",
+          "name": "Publicações",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "340",
+          "classification": "4.2.1.04.013",
+          "name": "Brindes e Presentes",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "341",
+          "classification": "4.2.1.04.014",
+          "name": "Propaganda e publicidade",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "342",
+          "classification": "4.2.1.04.015",
+          "name": "Comissões",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "343",
+          "classification": "4.2.1.04.016",
+          "name": "Bens e ferramentas de pequeno valor",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "344",
+          "classification": "4.2.1.04.017",
+          "name": "Despesas com cópias",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "345",
+          "classification": "4.2.1.04.018",
+          "name": "Materiais de papelaria",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "346",
+          "classification": "4.2.1.04.019",
+          "name": "Despesas com concorrências",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "347",
+          "classification": "4.2.1.04.020",
+          "name": "Materiais para informática",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "348",
+          "classification": "4.2.1.04.021",
+          "name": "Taxi e condução",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "349",
+          "classification": "4.2.1.04.022",
+          "name": "Impostos e taxas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "350",
+          "classification": "4.2.1.04.023",
+          "name": "Seguros de Incêndio",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "351",
+          "classification": "4.2.1.04.024",
+          "name": "Taxa de Condomínio",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "352",
+          "classification": "4.2.1.04.025",
+          "name": "Despesas Com Transporte e Deslocamentos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "353",
+          "classification": "4.2.1.04.026",
+          "name": "Conserto de Equipamentos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "354",
+          "classification": "4.2.1.04.027",
+          "name": "Depreciação de Equipamentos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "355",
+          "classification": "4.2.1.04.028",
+          "name": "Aluguel de imóveis",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "356",
+          "classification": "4.2.1.04.029",
+          "name": "Aluguel de Equipamentos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "357",
+          "classification": "4.2.1.04.030",
+          "name": "Segurança Eletrônica",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "358",
+          "classification": "4.2.1.04.031",
+          "name": "Despesas Com Registro Jucemg",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "359",
+          "classification": "4.2.1.04.032",
+          "name": "Reembolso Despesas Celular",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "360",
+          "classification": "4.2.1.04.033",
+          "name": "Despesas Consultoria Jurídica",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "361",
+          "classification": "4.2.1.04.034",
+          "name": "Tradução Juramentada",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "362",
+          "classification": "4.2.1.04.035",
+          "name": "Serviços de Consultoria",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "363",
+          "classification": "4.2.1.04.036",
+          "name": "Mensalidade Associativa",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "364",
+          "classification": "4.2.1.04.037",
+          "name": "Contribuição Sindical Patronal",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "365",
+          "classification": "4.2.1.04.038",
+          "name": "Serviços de Teleconferência",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "366",
+          "classification": "4.2.1.04.039",
+          "name": "Despesas com Despachantes",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "367",
+          "classification": "4.2.1.04.040",
+          "name": "Despesas Consultoria  Administrativa",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "368",
+          "classification": "4.2.1.04.041",
+          "name": "Serviços Tomados",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "555",
+          "classification": "4.2.1.04.042",
+          "name": "Serviços de Limpeza e Conservação",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "643",
+          "classification": "4.2.1.04.043",
+          "name": "Servico de Motofrete",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "769",
+          "classification": "4.2.1.04.044",
+          "name": "Aluguel de Veículos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "370",
+          "classification": "4.2.1.05.001",
+          "name": "Despesas com Material de Escritório",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "371",
+          "classification": "4.2.1.05.002",
+          "name": "Correios e Malotes",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "372",
+          "classification": "4.2.1.05.003",
+          "name": "Despesas Com Fotocópias",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "373",
+          "classification": "4.2.1.05.004",
+          "name": "Lanches e Refeições",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "374",
+          "classification": "4.2.1.05.005",
+          "name": "Honorários Contábeis",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "375",
+          "classification": "4.2.1.05.006",
+          "name": "Despesas com Certificado Digital",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "376",
+          "classification": "4.2.1.05.007",
+          "name": "Multa Administrativa Punitiva",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "377",
+          "classification": "4.2.1.05.008",
+          "name": "Despesas Com Cursos, Congressos, Palestras",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "378",
+          "classification": "4.2.1.05.009",
+          "name": "Despesas com Confraternização",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "379",
+          "classification": "4.2.1.05.010",
+          "name": "Despesas de Viagens - À Negócio",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "380",
+          "classification": "4.2.1.05.011",
+          "name": "Energia Elétrica",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "381",
+          "classification": "4.2.1.05.012",
+          "name": "Agua / Esgoto",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "382",
+          "classification": "4.2.1.05.013",
+          "name": "Aluguel",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "383",
+          "classification": "4.2.1.05.014",
+          "name": "Despesas Cartório de Reg. de Notas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "384",
+          "classification": "4.2.1.05.015",
+          "name": "Despesas Com Telefone",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "385",
+          "classification": "4.2.1.05.016",
+          "name": "Serviços de transporte",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "386",
+          "classification": "4.2.1.05.017",
+          "name": "Brindes e Decoração",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "387",
+          "classification": "4.2.1.05.018",
+          "name": "Despesas Com Internet",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "388",
+          "classification": "4.2.1.05.019",
+          "name": "Licença de Uso de Software",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "389",
+          "classification": "4.2.1.05.020",
+          "name": "Despesas com Confraternização",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "390",
+          "classification": "4.2.1.05.021",
+          "name": "Multa Administrativa Punitiva",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "733",
+          "classification": "4.2.1.05.022",
+          "name": "Uniformes",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "734",
+          "classification": "4.2.1.05.023",
+          "name": "Despesas Diversas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "735",
+          "classification": "4.2.1.05.024",
+          "name": "Empréstimos e Financiamentos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "739",
+          "classification": "4.2.1.05.025",
+          "name": "Serviços de Informatica",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "743",
+          "classification": "4.2.1.05.026",
+          "name": "Despesas com Despachante",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "746",
+          "classification": "4.2.1.05.027",
+          "name": "Serviços de Desinsetização",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "750",
+          "classification": "4.2.1.05.028",
+          "name": "Manutenção de Veículos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "392",
+          "classification": "4.2.1.06.001",
+          "name": "Iptu",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "393",
+          "classification": "4.2.1.06.002",
+          "name": "Ipva",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "394",
+          "classification": "4.2.1.06.003",
+          "name": "Taxa de Incêndio",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "395",
+          "classification": "4.2.1.06.004",
+          "name": "TFLF - Taxa de Fiscalização e Funcionamento",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "396",
+          "classification": "4.2.1.06.005",
+          "name": "Outros Imp. Taxas e cont. Municipais",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "397",
+          "classification": "4.2.1.06.006",
+          "name": "Outros Imp. Taxas e Cont. Estaduais",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "398",
+          "classification": "4.2.1.06.007",
+          "name": "Outros Imp. Taxas e cont. Federais",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "818",
+          "classification": "4.2.1.06.008",
+          "name": "ICMS ST/DIFAL",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "400",
+          "classification": "4.2.1.07.001",
+          "name": "Provisão para IRPJ",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "401",
+          "classification": "4.2.1.07.002",
+          "name": "Provisão para CSLL",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "404",
+          "classification": "4.2.8.01.001",
+          "name": "Juros Ativos",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "405",
+          "classification": "4.2.8.01.002",
+          "name": "Descontos Obtidos",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "406",
+          "classification": "4.2.8.01.003",
+          "name": "Rendimentos de Aplicação Financeira",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "408",
+          "classification": "4.2.8.02.001",
+          "name": "Tarifas Bancárias - Manut. C. Corrente",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "409",
+          "classification": "4.2.8.02.002",
+          "name": "Tarifas Bancárias TED/DOC",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "410",
+          "classification": "4.2.8.02.003",
+          "name": "Juros e Encargos bancários",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "411",
+          "classification": "4.2.8.02.004",
+          "name": "Juros e Encargos - Fornecedores",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "412",
+          "classification": "4.2.8.02.005",
+          "name": "Juros e Encargos - Impostos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "413",
+          "classification": "4.2.8.02.006",
+          "name": "Juros e Encargos - Multas Administrativas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "446",
+          "classification": "4.2.8.02.007",
+          "name": "Juros Sobre Financ.e Parcelamentos",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "455",
+          "classification": "4.2.8.02.008",
+          "name": "Tarifas e Taxas com Vendas de Cartões",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "529",
+          "classification": "4.2.8.02.009",
+          "name": "IOF/IR",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "415",
+          "classification": "4.2.8.03.001",
+          "name": "Variações Monetárias Passivas",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "417",
+          "classification": "4.2.8.04.001",
+          "name": "Variações Monetárias Ativas",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "435",
+          "classification": "4.2.8.05.001",
+          "name": "Receitas de Recuperacoes",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "420",
+          "classification": "4.2.9.01.001",
+          "name": "Receita de Alienação de Bens do Ativo Imobilizado",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "421",
+          "classification": "4.2.9.01.002",
+          "name": "Outras Receitas não Operacionais",
+          "nature": "C",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "423",
+          "classification": "4.2.9.02.001",
+          "name": "(-) Valor Contábil dos Bens e Direitos Alienados",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "424",
+          "classification": "4.2.9.02.002",
+          "name": "(-) Outras Despesas Operacionais",
+          "nature": "D",
+          "scope": "RESULTADO"
+        },
+        {
+          "code": "429",
+          "classification": "5.1.1.01.001",
+          "name": "Apuração de Resultado",
+          "nature": "I",
+          "scope": "OUTRO"
+        },
+        {
+          "code": "432",
+          "classification": "5.1.2.01.001",
+          "name": "Implantação de Saldos",
+          "nature": "I",
+          "scope": "OUTRO"
+        }
+      ]
     }
   },
-  "updated_at": "2026-11-17T16:43:41"
+  "updated_at": "2026-11-17T16:43:44"
 }
