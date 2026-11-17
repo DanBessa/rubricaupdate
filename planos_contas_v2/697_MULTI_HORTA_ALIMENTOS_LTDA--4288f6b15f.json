@@ -10,4361 +10,4361 @@
         "classification": "1.1.1.01.001",
         "name": "Caixa",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "8",
         "classification": "1.1.1.02.001",
         "name": "Banco Itáu - C/C:134212",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "624",
         "classification": "1.1.1.02.002",
         "name": "Banco Banestes C/C 26482547",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "522",
         "classification": "1.1.1.02.003",
         "name": "Banco Sicoob C/C 54484-1",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "871",
         "classification": "1.1.1.02.004",
         "name": "i157 ativo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "10",
         "classification": "1.1.1.03.001",
         "name": "Aplicação Financeira",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "13",
         "classification": "1.1.2.01.001",
         "name": "Cartoes a Receber",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "499",
         "classification": "1.1.2.01.002",
         "name": "Cartão Banescard",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "500",
         "classification": "1.1.2.01.003",
         "name": "Cartão Alelo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "501",
         "classification": "1.1.2.01.004",
         "name": "Cartão Pag Seguro",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "505",
         "classification": "1.1.2.01.008",
         "name": "Cartão Sodexo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "512",
         "classification": "1.1.2.01.009",
         "name": "Cartão Ticket",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "531",
         "classification": "1.1.2.01.010",
         "name": "Cartão Vale Mais",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "581",
         "classification": "1.1.2.01.011",
         "name": "Duplicatas a receber",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "591",
         "classification": "1.1.2.01.012",
         "name": "CONTROL AMBIENTAL SUSTENTABILIDADE E MEI",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "592",
         "classification": "1.1.2.01.013",
         "name": "MITRA ARQUIDIOCESANA DE VITORIA",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "595",
         "classification": "1.1.2.01.014",
         "name": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "611",
         "classification": "1.1.2.01.015",
         "name": "Cartão VR",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "617",
         "classification": "1.1.2.01.016",
         "name": "Cartão Amex",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "756",
         "classification": "1.1.2.01.017",
         "name": "Cartão ComproCard",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "757",
         "classification": "1.1.2.01.018",
         "name": "Cartão Policard - UP Brasil",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "759",
         "classification": "1.1.2.01.019",
         "name": "STELA IV MARKETING PROMOCIONAL LTDA - ME",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "760",
         "classification": "1.1.2.01.020",
         "name": "Cartão Pic Pay",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "767",
         "classification": "1.1.2.01.021",
         "name": "A GAZETA S/A",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "780",
         "classification": "1.1.2.01.022",
         "name": "Cartão Le Card",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "782",
         "classification": "1.1.2.01.023",
         "name": "Green Card",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "783",
         "classification": "1.1.2.01.024",
         "name": "Cartão Cabal",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "784",
         "classification": "1.1.2.01.025",
         "name": "Socred",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "790",
         "classification": "1.1.2.01.026",
         "name": "Cartão Cielo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "795",
         "classification": "1.1.2.01.027",
         "name": "MDS ATELIER SERVICOS DE BELEZA LTDA",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "15",
         "classification": "1.1.2.02.001",
         "name": "(-) Duplicatas Descontadas",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "17",
         "classification": "1.1.2.03.001",
         "name": "IRPJ a Compensar",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "18",
         "classification": "1.1.2.03.002",
         "name": "CSLL a Compensar",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "19",
         "classification": "1.1.2.03.003",
         "name": "PIS a Recuperar",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "20",
         "classification": "1.1.2.03.004",
         "name": "COFINS a Recuperar",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "21",
         "classification": "1.1.2.03.005",
         "name": "ICMS a Recuperar",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "433",
         "classification": "1.1.2.03.006",
         "name": "INSS a Compensar",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "23",
         "classification": "1.1.2.04.001",
         "name": "Adiantamento de Viagens",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "25",
         "classification": "1.1.2.05.001",
         "name": "Adiantamento de Salário",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "26",
         "classification": "1.1.2.05.002",
         "name": "Adiantamento de Férias",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "27",
         "classification": "1.1.2.05.003",
         "name": "Adiantamento 13º Salário",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "697",
         "classification": "1.1.2.05.004",
         "name": "Acordos e Quitações/Rescisões",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "949",
         "classification": "1.1.2.05.005",
         "name": "Empréstimos Consignado",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "29",
         "classification": "1.1.2.08.001",
         "name": "Adiantamento a Fornecedores Diversos",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "530",
         "classification": "1.1.2.09.001",
         "name": "ADIANTAMENTO A SOCIOS",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "100",
         "classification": "1.1.3.01.001",
         "name": "Mercadorias para Revenda",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "35",
         "classification": "1.1.4.01.001",
         "name": "Despesas do Exercício Seguinte",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "698",
         "classification": "1.1.4.01.002",
         "name": "Seguros a Vencer",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "39",
         "classification": "1.2.1.01.001",
         "name": "Clientes",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "40",
         "classification": "1.2.1.01.002",
         "name": "Créditos de Pessoas Ligadas",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "41",
         "classification": "1.2.1.01.003",
         "name": "Títulos e Valores Mobiliarios",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "42",
         "classification": "1.2.1.01.004",
         "name": "Títulos de Crédito Coligadas",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "44",
         "classification": "1.2.1.02.001",
         "name": "IRPJ a Compensar - Longo Prazo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "45",
         "classification": "1.2.1.02.002",
         "name": "CSLL a Compensar - Longo Prazo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "46",
         "classification": "1.2.1.02.003",
         "name": "PIS a Compensar - Longo Prazo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "47",
         "classification": "1.2.1.02.004",
         "name": "Cofins a Recuperar - Longo Prazo",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "49",
         "classification": "1.2.1.04.001",
         "name": "Participação em Controladas e Coligadas",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "50",
         "classification": "1.2.1.04.002",
         "name": "Outros Investimentos",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "52",
         "classification": "1.2.1.05.001",
         "name": "Terrenos",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "53",
         "classification": "1.2.1.05.002",
         "name": "Benfeitorias em Propriedades de Terceiros",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "54",
         "classification": "1.2.1.05.003",
         "name": "Instalações",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "55",
         "classification": "1.2.1.05.004",
         "name": "Maquinas e Equipamentos",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "56",
         "classification": "1.2.1.05.005",
         "name": "Veículos",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "57",
         "classification": "1.2.1.05.006",
         "name": "Móveis, Utensílios e Instalações",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "58",
         "classification": "1.2.1.05.007",
         "name": "Computadores e Periféricos",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "59",
         "classification": "1.2.1.05.008",
         "name": "Comodato",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "61",
         "classification": "1.2.1.06.001",
         "name": "(-) Depreciação Maquinas e Equipamentos",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "62",
         "classification": "1.2.1.06.002",
         "name": "(-) Depreciação Benfeitorias em Prop. de Terceiros",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "63",
         "classification": "1.2.1.06.003",
         "name": "(-) Depreciação Instalações",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "64",
         "classification": "1.2.1.06.004",
         "name": "(-) Depreciação Computadores e Periféricos",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "65",
         "classification": "1.2.1.06.005",
         "name": "(-) Depreciação Móveis e Utensílios",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "839",
         "classification": "1.2.1.06.006",
         "name": "(-) Depreciação Veículos",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "67",
         "classification": "1.2.1.07.001",
         "name": "Concessões",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "68",
         "classification": "1.2.1.07.002",
         "name": "Marcas e Patentes",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "69",
         "classification": "1.2.1.07.003",
         "name": "Direitos Autorais",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "70",
         "classification": "1.2.1.07.004",
         "name": "Fundo de Comércio",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "71",
         "classification": "1.2.1.07.005",
         "name": "Softwares ou Programas de Computadores",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "72",
         "classification": "1.2.1.07.006",
         "name": "Franquias",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "73",
         "classification": "1.2.1.07.007",
         "name": "Desenvolvimento de Produtos",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "75",
         "classification": "1.2.1.08.001",
         "name": "(-) Amortização do Intangível",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "77",
         "classification": "1.2.1.09.001",
         "name": "Bens em Comodato",
         "nature": "I",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "78",
         "classification": "1.2.1.09.002",
         "name": "Remessa para Conserto",
         "nature": "I",
-        "scope": "PATRIMONIAL"
+        "scope": "ATIVO"
       },
       {
         "code": "441",
         "classification": "2.1.1.01.001",
         "name": "FORNECEDORES DIVERSOS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "625",
         "classification": "2.1.1.01.002",
         "name": "ELETROTINTAS COMERCIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "626",
         "classification": "2.1.1.01.003",
         "name": "UNILIDER DISTRIBUIDORA S.A.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "627",
         "classification": "2.1.1.01.004",
         "name": "INDUSTRIA DE PRODUTOS ALIMENTICIOS PIRAQ",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "628",
         "classification": "2.1.1.01.005",
         "name": "NESTLE BRASIL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "629",
         "classification": "2.1.1.01.006",
         "name": "ELSONS PRODUTOS ALIMENTICIOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "630",
         "classification": "2.1.1.01.007",
         "name": "SUPERFOOD COMERCIO DE PRODUTOS ALIMENTIC",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "631",
         "classification": "2.1.1.01.008",
         "name": "COOPERATIVA DE LATICINIOS SELITA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "632",
         "classification": "2.1.1.01.009",
         "name": "MARTINS COMERCIO E SERVICOS DE DISTRIBUI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "633",
         "classification": "2.1.1.01.010",
         "name": "ATACADAO S.A.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "634",
         "classification": "2.1.1.01.011",
         "name": "INDUSTRIA E COMERCIO BAYER LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "635",
         "classification": "2.1.1.01.012",
         "name": "ABAV ABATEDOURO ATILIO VIVACQUA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "636",
         "classification": "2.1.1.01.013",
         "name": "MULTIEMBALAGENS COMERCIAL LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "637",
         "classification": "2.1.1.01.014",
         "name": "PDV DISTRIBUIDORA DE ALIMENTOS LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "638",
         "classification": "2.1.1.01.015",
         "name": "AGROPECUARIA PARAISO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "639",
         "classification": "2.1.1.01.016",
         "name": "BRF S.A.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "640",
         "classification": "2.1.1.01.017",
         "name": "LUXPLAST - INDUSTRIA E COMERCIO DE PLAST",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "641",
         "classification": "2.1.1.01.018",
         "name": "LIPPAUS DISTRIBUICAO EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "642",
         "classification": "2.1.1.01.019",
         "name": "BEBA BEM COMERCIO BEBIDAS LTDA-ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "643",
         "classification": "2.1.1.01.020",
         "name": "Bunge Alimentos S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "644",
         "classification": "2.1.1.01.021",
         "name": "DISTRIBUIDORA VILA VELHA DE BEBIDAS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "645",
         "classification": "2.1.1.01.022",
         "name": "GRANPARMA AGROINDUSTRIA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "646",
         "classification": "2.1.1.01.023",
         "name": "COBATA COMERCIO E DISTRIBUICAO EIRELLI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "647",
         "classification": "2.1.1.01.024",
         "name": "VIMERCATI MATERIAL DE CONSTRUCAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "648",
         "classification": "2.1.1.01.025",
         "name": "DISTRIBUIDORA NUTRIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "649",
         "classification": "2.1.1.01.026",
         "name": "COMERCIO DE MASSAS SAO GERALDO LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "650",
         "classification": "2.1.1.01.027",
         "name": "REFRIGERANTES COROA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "651",
         "classification": "2.1.1.01.028",
         "name": "DLICE COMERCIO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "652",
         "classification": "2.1.1.01.029",
         "name": "COLINA ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "653",
         "classification": "2.1.1.01.030",
         "name": "ROBUSTA COMERCIO DE MADEIRAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "654",
         "classification": "2.1.1.01.031",
         "name": "I DON FRANCESCO LATICINIOS LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "655",
         "classification": "2.1.1.01.032",
         "name": "ZAMBONI COMERCIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "656",
         "classification": "2.1.1.01.033",
         "name": "ZARB COMERCIO DISTALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "657",
         "classification": "2.1.1.01.034",
         "name": "MAKRO ATACADISTA SA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "658",
         "classification": "2.1.1.01.035",
         "name": "PEPSICO DO BRASIL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "659",
         "classification": "2.1.1.01.036",
         "name": "COMERCIAL WJS EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "660",
         "classification": "2.1.1.01.037",
         "name": "Sooretama Com. de Prod. Alimen. Ltda",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "661",
         "classification": "2.1.1.01.038",
         "name": "ELETRICAL ELETRICA COMERCIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "662",
         "classification": "2.1.1.01.039",
         "name": "PAO DE QUEIJO SALGADO VITORIA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "663",
         "classification": "2.1.1.01.040",
         "name": "AGUA DE COCO MACENA LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "664",
         "classification": "2.1.1.01.041",
         "name": "ELETROMIL COML. LTDA - MATRIZ",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "665",
         "classification": "2.1.1.01.042",
         "name": "Ambev S.A. - CDD Vitoria",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "666",
         "classification": "2.1.1.01.043",
         "name": "MARKET DISTRIBUIDORA DE ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "667",
         "classification": "2.1.1.01.044",
         "name": "SUPERFOOD COM. VAREJISTA DE PROD ALIMENT",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "668",
         "classification": "2.1.1.01.045",
         "name": "MONTE SION COM. E TRANSP.  LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "669",
         "classification": "2.1.1.01.046",
         "name": "SEARA ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "670",
         "classification": "2.1.1.01.047",
         "name": "S/A A GAZETA - FILIAL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "671",
         "classification": "2.1.1.01.048",
         "name": "SOUZA CRUZ S.A.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "672",
         "classification": "2.1.1.01.049",
         "name": "KEBIS BISCOITOS CASEIROS LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "673",
         "classification": "2.1.1.01.050",
         "name": "CERVEJARIA PETROPOLIS S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "674",
         "classification": "2.1.1.01.051",
         "name": "DISTRIBUIDORA PARAISO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "675",
         "classification": "2.1.1.01.052",
         "name": "CESCOM CESCONETO COMERCIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "676",
         "classification": "2.1.1.01.053",
         "name": "ADEMAR KERCKHOFF",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "677",
         "classification": "2.1.1.01.054",
         "name": "BUAIZ S/A INDUSTRIA E COMERCIO (MATRIZ)",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "678",
         "classification": "2.1.1.01.055",
         "name": "CMC INDUSTRIA E PROCESSOS PRODUTIVOS LTD",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "679",
         "classification": "2.1.1.01.056",
         "name": "VERONICA LUSIA FORNACIARI CAPELETES ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "680",
         "classification": "2.1.1.01.057",
         "name": "MHM DISTRIBUIDORA DE ALIMENTOS - GUA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "681",
         "classification": "2.1.1.01.058",
         "name": "ARTEFATOS DE PAPEIS COLATINENSE LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "682",
         "classification": "2.1.1.01.059",
         "name": "COMERCIO E REPRESENTACOES CAPIXABA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "683",
         "classification": "2.1.1.01.060",
         "name": "RIO DE JANEIRO REFRESCOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "684",
         "classification": "2.1.1.01.061",
         "name": "COMERCIAL DISKPAN LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "685",
         "classification": "2.1.1.01.062",
         "name": "CAFE MERIDIANO IND. E COM. LTDA - FILIAL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "686",
         "classification": "2.1.1.01.063",
         "name": "MAIS CLEAN ACESSORIOS LIMPEZA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "687",
         "classification": "2.1.1.01.064",
         "name": "NASCENTE COMERCIO DE BEBIDAS LTDAME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "688",
         "classification": "2.1.1.01.065",
         "name": "F.L.EMBALAGENS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "689",
         "classification": "2.1.1.01.066",
         "name": "ABIMAQ BALANCAS ROT E ETIQ IND COM SERV",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "690",
         "classification": "2.1.1.01.067",
         "name": "BAODOCE COMERCIO E INDUSTRIA EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "691",
         "classification": "2.1.1.01.068",
         "name": "AGROPECUARIA WERNERSBACH LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "692",
         "classification": "2.1.1.01.069",
         "name": "PAES PRODUTOS CONGELADOS LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "693",
         "classification": "2.1.1.01.070",
         "name": "TORTAS E DELICIAS CONFEITARIA LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "694",
         "classification": "2.1.1.01.071",
         "name": "MONZA PRODUTOS PANIFICADOS LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "695",
         "classification": "2.1.1.01.072",
         "name": "ARAB-PAO SIRIO LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "696",
         "classification": "2.1.1.01.073",
         "name": "ARAPOLPAS LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "699",
         "classification": "2.1.1.01.074",
         "name": "AJAX SERVICE INSECT DEDETIZACOES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "700",
         "classification": "2.1.1.01.075",
         "name": "AUTO SERVICO AEROPORTO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "701",
         "classification": "2.1.1.01.076",
         "name": "CCB CENTRAL DE COMPRAS DO BRASIL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "702",
         "classification": "2.1.1.01.077",
         "name": "COMERCIAL J.CORREIA LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "703",
         "classification": "2.1.1.01.078",
         "name": "COMERCIAL PAN TRIGO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "704",
         "classification": "2.1.1.01.079",
         "name": "DELLA E DELLA REPARACAO DE MOVEIS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "705",
         "classification": "2.1.1.01.080",
         "name": "DIACAO DISTRIBUIDORA DE ACO S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "706",
         "classification": "2.1.1.01.081",
         "name": "DMA DISTRIBUIDORA S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "707",
         "classification": "2.1.1.01.082",
         "name": "DRIFT COM DE ALIMENTOS S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "708",
         "classification": "2.1.1.01.083",
         "name": "EBALMAQ COMERCIO E INFORMATICA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "709",
         "classification": "2.1.1.01.084",
         "name": "ECONOTECH MATERIAL ELETRICO EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "710",
         "classification": "2.1.1.01.085",
         "name": "EMPREENDIMENTOS PAGUE MENOS S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "711",
         "classification": "2.1.1.01.086",
         "name": "F DA SILVA AZEREDO AVIVA CARTUCHOS ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "712",
         "classification": "2.1.1.01.087",
         "name": "FERRARI MAQUINAS E FERRAMENTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "713",
         "classification": "2.1.1.01.088",
         "name": "GILTEC ASSISTENCIA TECNICA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "714",
         "classification": "2.1.1.01.089",
         "name": "HW MATERIAL DE CONSTRUCAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "715",
         "classification": "2.1.1.01.090",
         "name": "IPI INDUSTRIA E COMERCIO DE ROUPAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "716",
         "classification": "2.1.1.01.091",
         "name": "JV COMERCIO E REPRESENTACOES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "717",
         "classification": "2.1.1.01.092",
         "name": "KEROVOS ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "718",
         "classification": "2.1.1.01.093",
         "name": "KONDOR COMERCIO E INDUSTRIA EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "719",
         "classification": "2.1.1.01.094",
         "name": "L & D LOGISTICA E DISTRIBUICAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "720",
         "classification": "2.1.1.01.095",
         "name": "L.G.L QUEIROZ ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "721",
         "classification": "2.1.1.01.096",
         "name": "M.H.M DISTRIBUIDORA DE ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "722",
         "classification": "2.1.1.01.097",
         "name": "MARIO SERGIO DE SOUZA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "723",
         "classification": "2.1.1.01.098",
         "name": "MASTER CONTABIL EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "724",
         "classification": "2.1.1.01.099",
         "name": "MAXWELL BOHR TECNOLOGIA S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "725",
         "classification": "2.1.1.01.100",
         "name": "N & S SERVIÇOS DE REMOCAO DE ENTULHOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "726",
         "classification": "2.1.1.01.101",
         "name": "NELVALE COMERCIO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "727",
         "classification": "2.1.1.01.102",
         "name": "NEWPAN PADARIAS E RESTAURANTES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "728",
         "classification": "2.1.1.01.103",
         "name": "PAREXGROUP IND E COM DE ARGAMAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "729",
         "classification": "2.1.1.01.104",
         "name": "PROSEGUR BRASIL S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "730",
         "classification": "2.1.1.01.105",
         "name": "PROVIDER MEDICINA OCUPACIONAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "731",
         "classification": "2.1.1.01.106",
         "name": "RIBETTI COMERCIO DE AREIA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "732",
         "classification": "2.1.1.01.107",
         "name": "RIO BRANCO ALIMENTOS S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "733",
         "classification": "2.1.1.01.108",
         "name": "RODRIGO FURTADO DE JESUS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "734",
         "classification": "2.1.1.01.109",
         "name": "SABOR FINO COMERCIO E INDUSTRIA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "735",
         "classification": "2.1.1.01.110",
         "name": "SAO GERALDO MATERIAL DE CONSTRUÇÃO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "736",
         "classification": "2.1.1.01.111",
         "name": "SCRIBO FORMULARIO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "737",
         "classification": "2.1.1.01.112",
         "name": "SERRANO DISTRIBUIDORA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "738",
         "classification": "2.1.1.01.113",
         "name": "SOLDASEG COM.DE ABRAS.E FERRAM.LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "739",
         "classification": "2.1.1.01.114",
         "name": "TADEU PLACAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "740",
         "classification": "2.1.1.01.115",
         "name": "TIPROTECT INFORMATICA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "741",
         "classification": "2.1.1.01.116",
         "name": "TONIACO DISTRIBUIDORA DE ACO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "742",
         "classification": "2.1.1.01.117",
         "name": "W2W E-COMMERCE DE VINHOS S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "743",
         "classification": "2.1.1.01.118",
         "name": "WALMART BRASIL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "437",
         "classification": "2.1.1.01.119",
         "name": "RESENDE E OLIVEIRA CONTABILIDADE E ASSES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "438",
         "classification": "2.1.1.01.120",
         "name": "ACIMAQ EQUIPAMENTOS INDUTRIAIS E COMERCI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "439",
         "classification": "2.1.1.01.121",
         "name": "MULTVENDAS DISTRIBUICAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "440",
         "classification": "2.1.1.01.122",
         "name": "Scribo Formularios Ltda",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "442",
         "classification": "2.1.1.01.123",
         "name": "BORA TRANSPORTES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "443",
         "classification": "2.1.1.01.124",
         "name": "L.MARTINS FREITAS UAINE IMP.E EXPOR",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "444",
         "classification": "2.1.1.01.125",
         "name": "LATINEX INTERNATIONAL IMPORTACAO E EXPOR",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "445",
         "classification": "2.1.1.01.126",
         "name": "EFX IMPORTACAO E EXPORTACAO EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "446",
         "classification": "2.1.1.01.127",
         "name": "VILAC COMERCIO E INDUSTRIA LTDA - ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "447",
         "classification": "2.1.1.01.128",
         "name": "RIO BRANCO ALIMENTOS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "448",
         "classification": "2.1.1.01.129",
         "name": "POLO IND E COMERCIO ARTEFATOS DE PAPEL L",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "749",
         "classification": "2.1.1.01.130",
         "name": "GENERAL MILLS BRASIL ALIMENTOS LTDA-POUC",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "451",
         "classification": "2.1.1.01.131",
         "name": "EDP Espirito Santo Distribuição de Energia S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "452",
         "classification": "2.1.1.01.132",
         "name": "LINEAR SISTEMAS LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "453",
         "classification": "2.1.1.01.133",
         "name": "RESENDE & OLIVEIRA CONTABILIDADE E ASSES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "454",
         "classification": "2.1.1.01.134",
         "name": "VTC CARTUCHOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "455",
         "classification": "2.1.1.01.135",
         "name": "PROVIDER SAUDE CORPORATIVA INTEGRAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "456",
         "classification": "2.1.1.01.136",
         "name": "TIPROTECT INFORMATICA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "457",
         "classification": "2.1.1.01.137",
         "name": "MBC COLETA DE ENTULHO LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "458",
         "classification": "2.1.1.01.138",
         "name": "MARCA SEGURANCA ELETRONICA EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "459",
         "classification": "2.1.1.01.139",
         "name": "VIXCOM SERVICOS E INSTALACOES EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "460",
         "classification": "2.1.1.01.140",
         "name": "BIMBO DO BRASIL LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "461",
         "classification": "2.1.1.01.141",
         "name": "ARTEFATOS DE PAPEIS CAPIXABA LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "462",
         "classification": "2.1.1.01.142",
         "name": "Imagiton Ideias Tangiveis Ltda- ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "463",
         "classification": "2.1.1.01.143",
         "name": "TITOLARE MASSAS ARTESANAIS LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "464",
         "classification": "2.1.1.01.144",
         "name": "MARCA SEGURANÇA ELETRONICA LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "465",
         "classification": "2.1.1.01.145",
         "name": "PICUMA DISTRIBUIDORA DE CARVAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "466",
         "classification": "2.1.1.01.146",
         "name": "RUBENS DE SOUZA VERLY",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "467",
         "classification": "2.1.1.01.147",
         "name": "AURORA BEBIDAS E ALIMENTOS FINOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "468",
         "classification": "2.1.1.01.148",
         "name": "ROBERTO LUIZ WIEDEMANN LANG",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "469",
         "classification": "2.1.1.01.149",
         "name": "LEANDRO DOS SANTOS GOMES ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "470",
         "classification": "2.1.1.01.150",
         "name": "MULTIRRARA COMERCIAL LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "471",
         "classification": "2.1.1.01.151",
         "name": "VISTA LINDA COM DE CEREAIS E PROD ALIMEN",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "472",
         "classification": "2.1.1.01.152",
         "name": "TRANSPORTADORA FIOROT LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "476",
         "classification": "2.1.1.01.153",
         "name": "ORIGEN COM.ALIMENTOS BEBIDAS EIRLI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "477",
         "classification": "2.1.1.01.154",
         "name": "COMERCIO DE ALIMENTOS NOVO MEXICO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "479",
         "classification": "2.1.1.01.155",
         "name": "WICKBOLD & NOSSO PAO INDUSTRIAS ALIMENTI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "480",
         "classification": "2.1.1.01.156",
         "name": "A P N NASCIMENTO MOVEIS EQUIP P/ESCRITOR",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "481",
         "classification": "2.1.1.01.157",
         "name": "QUALY COMPANY DISTRIBUIDORA LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "482",
         "classification": "2.1.1.01.158",
         "name": "LINEAR SISTEMAS LTDA - ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "483",
         "classification": "2.1.1.01.159",
         "name": "PEDRO EDUARDO VERVLOET FEU ROSA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "484",
         "classification": "2.1.1.01.160",
         "name": "SONORIZA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "750",
         "classification": "2.1.1.01.161",
         "name": "CIRMAQ REPRESENTAÇOES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "485",
         "classification": "2.1.1.01.162",
         "name": "BATISTA COMERCIAL E REPRESENTACOES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "486",
         "classification": "2.1.1.01.163",
         "name": "SCANSOURCE BRASIL DISTRIBUIDORA DE TECNO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "487",
         "classification": "2.1.1.01.164",
         "name": "EMPORIO 95 GRAUS LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "488",
         "classification": "2.1.1.01.165",
         "name": "ROGERIA DA PENHA LUPPI MARELY - ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "489",
         "classification": "2.1.1.01.166",
         "name": "EXTINTOR ES COMERCIO E SERVICOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "490",
         "classification": "2.1.1.01.167",
         "name": "ANTONIO CARLOS LIEVORE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "491",
         "classification": "2.1.1.01.168",
         "name": "F. DA SILVA AZEREDO AVIVA CARTUCHOS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "751",
         "classification": "2.1.1.01.169",
         "name": "INFORVIX COMERCIO E MANUTENCAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "492",
         "classification": "2.1.1.01.170",
         "name": "Buaiz SA Ind Comercio",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "493",
         "classification": "2.1.1.01.171",
         "name": "A.J DE A MAGALHAES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "494",
         "classification": "2.1.1.01.172",
         "name": "ROHDEN VIDROS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "495",
         "classification": "2.1.1.01.173",
         "name": "PADARIA E CONFEITARIA SANTA HELENA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "496",
         "classification": "2.1.1.01.174",
         "name": "REALCAFE CAFUSO LTDA - ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "497",
         "classification": "2.1.1.01.175",
         "name": "LETICIA DISTRIBUIDORA EIRELI - ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "498",
         "classification": "2.1.1.01.176",
         "name": "COLLAPRINT ROTULOS E ETIQUETAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "752",
         "classification": "2.1.1.01.177",
         "name": "LUCK DISTRIBUIDORA DE ALIMENTOS EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "753",
         "classification": "2.1.1.01.178",
         "name": "COMERCIAL NOVA TECNICA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "754",
         "classification": "2.1.1.01.179",
         "name": "Nestle Brasil Ltda",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "506",
         "classification": "2.1.1.01.180",
         "name": "ALCEMIR VIEIRA LIBANIO 75110563772",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "507",
         "classification": "2.1.1.01.181",
         "name": "FAE CONTROLE DE PRAGAS URBANAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "508",
         "classification": "2.1.1.01.182",
         "name": "MARCELO JOÃO CRECCO DARE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "509",
         "classification": "2.1.1.01.183",
         "name": "GEM SERVICE COMERCIO E SERVIÇOS LTDA - M",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "510",
         "classification": "2.1.1.01.184",
         "name": "JJ Frutas e Transportes Eireli",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "511",
         "classification": "2.1.1.01.185",
         "name": "FERRARI DISTR DE MAQUINAS E FERRAMENTAS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "513",
         "classification": "2.1.1.01.186",
         "name": "CONSINCO S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "514",
         "classification": "2.1.1.01.187",
         "name": "OFICINA MECANICA M S V LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "515",
         "classification": "2.1.1.01.188",
         "name": "CAFE NUMERO UM SA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "516",
         "classification": "2.1.1.01.189",
         "name": "LATICINIOS BIMBO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "517",
         "classification": "2.1.1.01.190",
         "name": "JOICIELI BARBOSA BATISTA SILVA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "518",
         "classification": "2.1.1.01.191",
         "name": "C.P. ETIQUETAS E ROTULOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "519",
         "classification": "2.1.1.01.192",
         "name": "ELIAS GOMES GARCIA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "520",
         "classification": "2.1.1.01.193",
         "name": "FRIGORIFICO INDUSTRIAL VALE DO PIRANGA S",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "521",
         "classification": "2.1.1.01.194",
         "name": "CLENEUMAR R GOMES COM DE FRUTAS E TRANSP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "523",
         "classification": "2.1.1.01.195",
         "name": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "524",
         "classification": "2.1.1.01.196",
         "name": "BL ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "525",
         "classification": "2.1.1.01.197",
         "name": "SANTOS DISTRIBUIDOR E COMERCIO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "526",
         "classification": "2.1.1.01.198",
         "name": "VANDERSON VERVLOET BESSA COMERCIO DE GAS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "527",
         "classification": "2.1.1.01.199",
         "name": "ROBERTO LUIZ WIEDEMANN",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "528",
         "classification": "2.1.1.01.200",
         "name": "RENATO L SILVA TELECOMUNICACOES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "533",
         "classification": "2.1.1.01.201",
         "name": "EDP ESPIRITO SANTO DISTRIBUICAO DE ENERG",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "534",
         "classification": "2.1.1.01.202",
         "name": "PLASTICAL PLASTICO CAPIXABA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "535",
         "classification": "2.1.1.01.203",
         "name": "GODIVA ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "536",
         "classification": "2.1.1.01.204",
         "name": "GELO ZERO GRAU",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "537",
         "classification": "2.1.1.01.205",
         "name": "CLENEUMAR R G COM DE FRUTAS E TRANSPORTE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "538",
         "classification": "2.1.1.01.206",
         "name": "J.B.B. SILVA FABRICAÇÃO DE PANIFICADOS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "539",
         "classification": "2.1.1.01.207",
         "name": "Micherif Comercio e Representacoes EIREL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "540",
         "classification": "2.1.1.01.208",
         "name": "DOCES FRANCO BALA DE COCO C.LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "541",
         "classification": "2.1.1.01.209",
         "name": "LATICINIOS MARIA CLARA - MATRIZ",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "563",
         "classification": "2.1.1.01.210",
         "name": "SERRA COLETA DE ENTULHO E CONSTRUCAO CIV",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "564",
         "classification": "2.1.1.01.211",
         "name": "MIX CERTO DIST. C. A. L. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "565",
         "classification": "2.1.1.01.212",
         "name": "DISTRIMAX LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "566",
         "classification": "2.1.1.01.213",
         "name": "LIBERDADE DISTRIBUIDORA DE ALIMENTOS LTD",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "567",
         "classification": "2.1.1.01.214",
         "name": "FRISA FRIGORIFICO RIO DOCE S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "568",
         "classification": "2.1.1.01.215",
         "name": "PUROLEITE INDUSTRIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "569",
         "classification": "2.1.1.01.216",
         "name": "TRI-VENDAS E COMERCIO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "570",
         "classification": "2.1.1.01.217",
         "name": "COOP. PRODUTORES RURAIS DO SERRO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "571",
         "classification": "2.1.1.01.218",
         "name": "IPI Industria e comercio de roupas ltda",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "572",
         "classification": "2.1.1.01.219",
         "name": "SELLPACK DISTRIBUIDORA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "573",
         "classification": "2.1.1.01.220",
         "name": "RESTAURANTE LN CHURRASCARIA LIMOEIRO LTD",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "574",
         "classification": "2.1.1.01.221",
         "name": "ALESSANDRO RODRIGUES DE ALMEIDA LIMA 016",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "575",
         "classification": "2.1.1.01.222",
         "name": "PANIFICADORA E ROTISSERIA MONZA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "576",
         "classification": "2.1.1.01.223",
         "name": "PREMIUMLOG TRANSPORTE E DISTRIBUICAO EIR",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "577",
         "classification": "2.1.1.01.224",
         "name": "ELETRONICA GJ LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "578",
         "classification": "2.1.1.01.225",
         "name": "BLEND S IMP EXP E COM DE ALIM E BEBIDAS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "579",
         "classification": "2.1.1.01.226",
         "name": "INDUSTRIA DE DOCES KARIME EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "580",
         "classification": "2.1.1.01.227",
         "name": "IRAI - COMERCIO DE EMBALAGENS LTDA (1)",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "582",
         "classification": "2.1.1.01.228",
         "name": "PRIME TELECOMUNICACOES EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "583",
         "classification": "2.1.1.01.229",
         "name": "LATICINIOS UNIAO TOTAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "584",
         "classification": "2.1.1.01.230",
         "name": "APROCAME-ASSOC.DOS PRODUTORES DE QUEIJO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "585",
         "classification": "2.1.1.01.231",
         "name": "IND. E COM. DE LATICINIOS MARIA MADALENA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "586",
         "classification": "2.1.1.01.232",
         "name": "MILLAR IMPORTACAO E EXPORTACAO LTDAES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "587",
         "classification": "2.1.1.01.233",
         "name": "MAXIMUS INDUSTRIA DE EMBALAGENS EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "588",
         "classification": "2.1.1.01.234",
         "name": "INSTITUTO FENACON",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "589",
         "classification": "2.1.1.01.235",
         "name": "MAROS COMERCIO E INTERMEDIACAO DE NEGOCI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "590",
         "classification": "2.1.1.01.236",
         "name": "MINERVA S A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "596",
         "classification": "2.1.1.01.237",
         "name": "TRÊS CORAÇÕES ALIMENTOS S.A.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "597",
         "classification": "2.1.1.01.238",
         "name": "LATICINIOS MUTUMILK LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "598",
         "classification": "2.1.1.01.239",
         "name": "Greenpeople Industria e Comercio de Alim",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "600",
         "classification": "2.1.1.01.240",
         "name": "VIVA MELHOR INDUSTRIA DE ALIMENTOS EIREL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "601",
         "classification": "2.1.1.01.241",
         "name": "CLARICE VARGAS MARTINS 07857194743",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "602",
         "classification": "2.1.1.01.242",
         "name": "RESFREE INDUSTRIA DE BEBIDAS E ALIMENTOS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "603",
         "classification": "2.1.1.01.243",
         "name": "E & D COMERCIO ALIMENTICIO LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "604",
         "classification": "2.1.1.01.244",
         "name": "LEADER FOOD DISTRIBUIDORA DE ALIMENTOS E",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "605",
         "classification": "2.1.1.01.245",
         "name": "PADARIA E CONFEITARIA SHOPPING PRAIA DA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "606",
         "classification": "2.1.1.01.246",
         "name": "GAIA DISTRIBUIDORA DE ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "607",
         "classification": "2.1.1.01.247",
         "name": "JONATHA DA COSTA FERREIRA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "608",
         "classification": "2.1.1.01.248",
         "name": "LATICINIOS MINAS COLONIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "609",
         "classification": "2.1.1.01.249",
         "name": "Ricardo Santos Ferreira",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "610",
         "classification": "2.1.1.01.250",
         "name": "M. Dias Branco S.A. Indústria e Com de A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "612",
         "classification": "2.1.1.01.251",
         "name": "RODYERO DA SILVA NONATO 12901757723",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "613",
         "classification": "2.1.1.01.252",
         "name": "RC BITENCOURT COMERCIO DE BEBIDAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "614",
         "classification": "2.1.1.01.253",
         "name": "PADARIA E CONFEITARIA FRADINHOS LTDA - F",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "615",
         "classification": "2.1.1.01.254",
         "name": "CIPRIANO COMERCIO E DISTRIBUICAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "618",
         "classification": "2.1.1.01.255",
         "name": "MAZAL IMPORTACAO E EXPORTACAO DE ALIMENT",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "619",
         "classification": "2.1.1.01.256",
         "name": "LE GRAIN DOR FOODS COMERCIO DE CHOCOLATE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "620",
         "classification": "2.1.1.01.257",
         "name": "LUBE DISTRIBUIDORA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "621",
         "classification": "2.1.1.01.258",
         "name": "PADARIA E CONFEITARIA FRADINHOS LTDA - J",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "622",
         "classification": "2.1.1.01.259",
         "name": "PADARIA E CONFEITARIA CONVENTO DA PENHA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "755",
         "classification": "2.1.1.01.260",
         "name": "BEM COMERCIO DE BEBIDAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "758",
         "classification": "2.1.1.01.261",
         "name": "PADARIA E CONFEITARIA PRAIA DO CANTO LTD",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "761",
         "classification": "2.1.1.01.262",
         "name": "Consórcio Cariacica ll",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "762",
         "classification": "2.1.1.01.263",
         "name": "HMS COMERCIO DE ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "763",
         "classification": "2.1.1.01.264",
         "name": "PRO-LARANJA INDUSTRIA E COMERCIO DE SUCO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "764",
         "classification": "2.1.1.01.265",
         "name": "AQUALAR COMERCIO DE BEBIDAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "765",
         "classification": "2.1.1.01.266",
         "name": "CONSORCIO CARIACICA II",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "768",
         "classification": "2.1.1.01.267",
         "name": "DPP DISTRIBUIDORA PONTO A PONTO LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "769",
         "classification": "2.1.1.01.268",
         "name": "TRANSERVO TRANSPORTES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "770",
         "classification": "2.1.1.01.269",
         "name": "LUZIANE DA SILVA GARCIA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "771",
         "classification": "2.1.1.01.270",
         "name": "AR SMARTVIX SERVICOS DE CERTIFICACAO DIG",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "774",
         "classification": "2.1.1.01.271",
         "name": "NOBREDO COMERCIO E LOGISTICA LTDA FL GUA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "775",
         "classification": "2.1.1.01.272",
         "name": "VIA VAREJO S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "776",
         "classification": "2.1.1.01.273",
         "name": "MARCELO JOAO GRECCO DARE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "777",
         "classification": "2.1.1.01.274",
         "name": "COOPERATIVA AGROPECUARIA CENTRO SERRANA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "778",
         "classification": "2.1.1.01.275",
         "name": "R LANA COMERCIO E REPRESENTACOES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "779",
         "classification": "2.1.1.01.276",
         "name": "TICKET SERVICOS SA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "785",
         "classification": "2.1.1.01.277",
         "name": "Unilever Brasil Ltda",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "786",
         "classification": "2.1.1.01.278",
         "name": "LATICINIOS FIORIN EIRELI ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "787",
         "classification": "2.1.1.01.279",
         "name": "VOLMER MATERIAL DE CONSTRUCAO EIRELI ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "788",
         "classification": "2.1.1.01.280",
         "name": "VIEIRA JUNIOR ATAC.HORTIFRUT. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "789",
         "classification": "2.1.1.01.281",
         "name": "CENTRALPAN CENTRAL DE COMP DOS PANIF ES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "792",
         "classification": "2.1.1.01.282",
         "name": "INOVARE COMERCIAL LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "793",
         "classification": "2.1.1.01.283",
         "name": "FV DISTRIBUIDORA DE CARNES E PESCADOS EI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "794",
         "classification": "2.1.1.01.284",
         "name": "SERVICO SOCIAL DA INDUSTRIA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "796",
         "classification": "2.1.1.01.285",
         "name": "SOPRANI INDUSTRIA E COMERCIO DE PIPOCAS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "797",
         "classification": "2.1.1.01.286",
         "name": "FABIO FABIANO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "798",
         "classification": "2.1.1.01.287",
         "name": "ELETRICA RAIO COMERCIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "799",
         "classification": "2.1.1.01.288",
         "name": "ELETRORAIO MATERIAL ELETRICO LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "800",
         "classification": "2.1.1.01.289",
         "name": "FAT ASSISTENCIA TECNICA E VENDA DE MAQUI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "801",
         "classification": "2.1.1.01.290",
         "name": "FNS COMERCIO E IMPORTACAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "802",
         "classification": "2.1.1.01.291",
         "name": "AGUA PEDRA AZUL S/A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "803",
         "classification": "2.1.1.01.292",
         "name": "PACKALL DO BRASIL COMERCIO DE EMBALAGENS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "804",
         "classification": "2.1.1.01.293",
         "name": "J D VERVLOET ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "805",
         "classification": "2.1.1.01.294",
         "name": "POLITINTAS LTDA. - 04",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "806",
         "classification": "2.1.1.01.295",
         "name": "ALESSANDRA LIMA TEIXEIRA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "807",
         "classification": "2.1.1.01.296",
         "name": "DEX EXTINTORES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "808",
         "classification": "2.1.1.01.297",
         "name": "MULTIFRUTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "809",
         "classification": "2.1.1.01.298",
         "name": "GK DISTRIBUIDORA DE FRUTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "810",
         "classification": "2.1.1.01.299",
         "name": "Distribuidora de Frutas Linhares Ltda -",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "811",
         "classification": "2.1.1.01.300",
         "name": "MAREJO COMERCIO DE FRUTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "812",
         "classification": "2.1.1.01.301",
         "name": "ORGANIZACAO VITRINE DA FRUTA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "813",
         "classification": "2.1.1.01.302",
         "name": "ATACADISTA VENUS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "814",
         "classification": "2.1.1.01.303",
         "name": "MAANAIM COMERCIAL DE HORTIFRUTI LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "815",
         "classification": "2.1.1.01.304",
         "name": "COMERCIAL SENHOR DO BONFIM LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "816",
         "classification": "2.1.1.01.305",
         "name": "ATACADISTA NETUNO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "817",
         "classification": "2.1.1.01.306",
         "name": "FAVO DE MEL DIST. DE FRUTAS E LEG. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "818",
         "classification": "2.1.1.01.307",
         "name": "GUIMARAES RIBEIRO TRANSPORTES - EIRELI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "819",
         "classification": "2.1.1.01.308",
         "name": "VALERIA FARAH",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "820",
         "classification": "2.1.1.01.309",
         "name": "ANTONIO CARLOS CINTRA DE OLIVEIRA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "821",
         "classification": "2.1.1.01.310",
         "name": "POSTO VILA N. SENHORA DE FATIMA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "822",
         "classification": "2.1.1.01.311",
         "name": "PLUTAO COMERCIO DE HORTIFRUTIGRANJEIROS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "823",
         "classification": "2.1.1.01.312",
         "name": "EMPORIO DAS FRUTAS E LEGUMES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "824",
         "classification": "2.1.1.01.313",
         "name": "IRMAOS PEREIRA IMP. E EXP. LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "825",
         "classification": "2.1.1.01.314",
         "name": "COMERCIAL AGRICOLA GUARACAI LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "826",
         "classification": "2.1.1.01.315",
         "name": "RODOLFO CARVALHO DE AGUIAR",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "827",
         "classification": "2.1.1.01.316",
         "name": "MONTE SIAO COMERCIO DE HORTIFRUTI LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "828",
         "classification": "2.1.1.01.317",
         "name": "JEQUITIBA COMERCIAL AGRICOLA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "829",
         "classification": "2.1.1.01.318",
         "name": "DISTRIBUIDORA DE FRUTAS COIMBRA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "830",
         "classification": "2.1.1.01.319",
         "name": "FRUTICOLA POUSO ALEGRE EIRELI - EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "831",
         "classification": "2.1.1.01.320",
         "name": "GONTIJO PAES LTDA EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "832",
         "classification": "2.1.1.01.321",
         "name": "DISTRIBUIDORA TRIANGULO LTDA - Matriz",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "833",
         "classification": "2.1.1.01.322",
         "name": "BENASSI MINAS EXPORTACAO E IMPORTACAO LT",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "834",
         "classification": "2.1.1.01.323",
         "name": "PRODUTOS CAMPEAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "835",
         "classification": "2.1.1.01.324",
         "name": "ALFA PECAS DIESEL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "836",
         "classification": "2.1.1.01.325",
         "name": "AGRO LONDRINA COMERCIO DE FRUTAS E LEGUM",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "840",
         "classification": "2.1.1.01.326",
         "name": "JTC COM E DIST DE PRODS ALIM LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "841",
         "classification": "2.1.1.01.327",
         "name": "Comercial Estrela de Belem Ltda",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "842",
         "classification": "2.1.1.01.328",
         "name": "OURO FRUTAS COMERCIO ATACADISTA E VAREJI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "843",
         "classification": "2.1.1.01.329",
         "name": "LA LUNA IMPORTADORA DE FRUTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "844",
         "classification": "2.1.1.01.330",
         "name": "AGP COMERCIO DE FRUTAS  LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "845",
         "classification": "2.1.1.01.331",
         "name": "CAXIENSE FRUTT N BOX COM IMP LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "846",
         "classification": "2.1.1.01.332",
         "name": "HIDRO SABOR HORTICULTURA LTDA-ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "847",
         "classification": "2.1.1.01.333",
         "name": "DELLAFRUTTA COMERCIO ATACADISTA DE FRUTA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "848",
         "classification": "2.1.1.01.334",
         "name": "6 - REDE BRASILEIRA DE PNEUS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "849",
         "classification": "2.1.1.01.335",
         "name": "COMERCIO E DISTRIBUIDORA DE FRUTAS NATIV",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "850",
         "classification": "2.1.1.01.336",
         "name": "DISTRIBUIDORA MORANGOS PEREIRA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "851",
         "classification": "2.1.1.01.337",
         "name": "Alimentos Di Bari Ltda.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "852",
         "classification": "2.1.1.01.338",
         "name": "JOSE GONCALVES MACHADO MARTINS FRUTAS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "853",
         "classification": "2.1.1.01.339",
         "name": "POMAGRI FRUTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "854",
         "classification": "2.1.1.01.340",
         "name": "HORTIFRUTI CAMPONES LTDA - MATRIZ",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "855",
         "classification": "2.1.1.01.341",
         "name": "CENTRO  AUTOMOTIVO MEXIANA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "856",
         "classification": "2.1.1.01.342",
         "name": "DISTRUIBUIDORA RELITE LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "857",
         "classification": "2.1.1.01.343",
         "name": "DONI COMERCIAL AGRICOLA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "858",
         "classification": "2.1.1.01.344",
         "name": "FRANCISCO FLAVIO DE LIMA SANTO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "859",
         "classification": "2.1.1.01.345",
         "name": "DP COMERCIO DE GENEROS ALIMENTICIOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "860",
         "classification": "2.1.1.01.346",
         "name": "DISTRIBUIDORA DE FRUTAS CABRAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "861",
         "classification": "2.1.1.01.347",
         "name": "DISTRIBUIDORA DE FRUTAS E LEGUMES D PAUL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "862",
         "classification": "2.1.1.01.348",
         "name": "ABELHA DISTRIBUIDORA DE FRUTAS E LEGUMES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "863",
         "classification": "2.1.1.01.349",
         "name": "KAKAU CEBOLA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "864",
         "classification": "2.1.1.01.350",
         "name": "CECO-CENTRO DE EXAMES COMPLEMENTARES OCU",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "865",
         "classification": "2.1.1.01.351",
         "name": "NOVO MUNDO - MEIO AMBIENTE E SEGURANCA D",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "866",
         "classification": "2.1.1.01.352",
         "name": "CST - MEDICINA DO TRABALHO LTDA - ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "867",
         "classification": "2.1.1.01.353",
         "name": "A A A DEDETIZACAO INSETAN LTDA - EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "868",
         "classification": "2.1.1.01.354",
         "name": "W3 COMERCIO DE SISTEMAS CORPORATIVOS LTD",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "869",
         "classification": "2.1.1.01.355",
         "name": "CENTRO AUTOMOTIVO MEXIANA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "870",
         "classification": "2.1.1.01.356",
         "name": "AGRO COMERCIAL GUARULHOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "872",
         "classification": "2.1.1.01.357",
         "name": "i157 Passivo",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "874",
         "classification": "2.1.1.01.358",
         "name": "REMATEC SERVICOS LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "875",
         "classification": "2.1.1.01.359",
         "name": "REDE BRASILEIRA DE PNEUS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "876",
         "classification": "2.1.1.01.360",
         "name": "ALEXANDRE SOUZA DE FARIA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "877",
         "classification": "2.1.1.01.361",
         "name": "HORT SELECTION LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "878",
         "classification": "2.1.1.01.362",
         "name": "DESTAQUE DISTRIBUIDORA DE FRUTAS E LEGUM",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "879",
         "classification": "2.1.1.01.363",
         "name": "LEONE COMERCIO E IMPORTACAO E EXPORTACAO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "880",
         "classification": "2.1.1.01.364",
         "name": "MAXIMA DISTRIBUIDORA DE OVOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "881",
         "classification": "2.1.1.01.365",
         "name": "MERCANTIL DISTRI. DE PECAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "882",
         "classification": "2.1.1.01.366",
         "name": "AUTO BITTS LTDA - FILIAL 1",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "883",
         "classification": "2.1.1.01.367",
         "name": "AUTO BITTS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "884",
         "classification": "2.1.1.01.368",
         "name": "VIEGAS SERVICOS AUTOMOTIVOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "885",
         "classification": "2.1.1.01.369",
         "name": "BH COMERCIO DE PECAS E SERVICOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "887",
         "classification": "2.1.1.01.370",
         "name": "SOL DIVINO COMERCIAL AGRICOLA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "888",
         "classification": "2.1.1.01.371",
         "name": "GRAEMBUENSE COM. DE VER. E LEG. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "889",
         "classification": "2.1.1.01.372",
         "name": "VIEGAS SERVICOS AUTOMOTIVOS LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "890",
         "classification": "2.1.1.01.373",
         "name": "OTHIL IMPORTADORA DE FRUTAS LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "891",
         "classification": "2.1.1.01.374",
         "name": "AGRO COMERCIAL CR IMPORTACAO E EXPORTACA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "892",
         "classification": "2.1.1.01.375",
         "name": "JAC PNEUS LTDA - MATRIZ",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "893",
         "classification": "2.1.1.01.376",
         "name": "JAC PNEUS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "894",
         "classification": "2.1.1.01.377",
         "name": "FRUTICOLA VALINHOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "895",
         "classification": "2.1.1.01.378",
         "name": "COMERCIAL KI-FRUTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "896",
         "classification": "2.1.1.01.379",
         "name": "FERNANDO DA COSTA FURTADO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "897",
         "classification": "2.1.1.01.380",
         "name": "CARDOZO COMERCIO DE FRUTAS LTDA ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "898",
         "classification": "2.1.1.01.381",
         "name": "AUTOMAX COMERCIAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "899",
         "classification": "2.1.1.01.382",
         "name": "FRUTAMINA COMERCIAL AGRICOLA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "900",
         "classification": "2.1.1.01.383",
         "name": "COMERCIO DE ALIMENTOS ESTRELA DO ORIENTE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "901",
         "classification": "2.1.1.01.384",
         "name": "CONDUFIBRA DISTR. DE CABOS E CONECT LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "902",
         "classification": "2.1.1.01.385",
         "name": "SANTA FE SERVICOS E PREVENCAO CONTRA INC",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "903",
         "classification": "2.1.1.01.386",
         "name": "MINAS BRASIL COMERCIO E DISTRIBUICAO DE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "904",
         "classification": "2.1.1.01.387",
         "name": "SAMUEL MENDONCA RODRIGUES E OUTROS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "905",
         "classification": "2.1.1.01.388",
         "name": "NAPOLES HORTIFRUTIGRANJEIROS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "906",
         "classification": "2.1.1.01.389",
         "name": "FRUTAS PREMIUM LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "907",
         "classification": "2.1.1.01.390",
         "name": "BELA VISTA COML. E DISTR. DE HORT. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "908",
         "classification": "2.1.1.01.391",
         "name": "HETROS IMPORTACAO E EXPORTACAO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "909",
         "classification": "2.1.1.01.392",
         "name": "DISTRIBUIDORA DE FRUTAS ARAGUAIA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "910",
         "classification": "2.1.1.01.393",
         "name": "VARELA AUTO PECAS LTDA - EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "911",
         "classification": "2.1.1.01.394",
         "name": "REI DO ALHO LTDA - ME",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "912",
         "classification": "2.1.1.01.395",
         "name": "PAIZAO COMERCIO DE HORTIFRUTI LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "913",
         "classification": "2.1.1.01.396",
         "name": "SK NOBREAKS COMERCIO E SERVICOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "914",
         "classification": "2.1.1.01.397",
         "name": "SACOLAO COMPRE BEM LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "915",
         "classification": "2.1.1.01.398",
         "name": "AJ COMERCIO DE FRUTAS E LEGUMES ATACADIS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "916",
         "classification": "2.1.1.01.399",
         "name": "JE DISTRIBUIDORA ABELHA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "917",
         "classification": "2.1.1.01.400",
         "name": "TAURUS IMP. E COM. DE FRUTAS E LEGUMES L",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "918",
         "classification": "2.1.1.01.401",
         "name": "TALIN AUTO VIDROS PAMPULHA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "919",
         "classification": "2.1.1.01.402",
         "name": "ATUAL COMERCIO DE AUTOPECAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "920",
         "classification": "2.1.1.01.403",
         "name": "LM DISTRIBUIDORA DE HORTIFRUTIGRANJEIROS",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "921",
         "classification": "2.1.1.01.404",
         "name": "AUTO ELETRICA W LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "922",
         "classification": "2.1.1.01.405",
         "name": "ROBERTO KAZUHIRO KADOTA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "923",
         "classification": "2.1.1.01.406",
         "name": "AUTO ELETRICA V. V. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "930",
         "classification": "2.1.1.01.407",
         "name": "PORT DISTRIBUIDORA DE INFORMATICA E PAPE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "931",
         "classification": "2.1.1.01.408",
         "name": "PECAS USADAS TURIM LTDA- EPP",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "932",
         "classification": "2.1.1.01.409",
         "name": "DISTRIBUIDORA DE ALIMENTOS TREM MINEIRO",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "933",
         "classification": "2.1.1.01.410",
         "name": "AGRO COMERCIAL LIBERTY",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "934",
         "classification": "2.1.1.01.411",
         "name": "QUALITY NUCLEO DIGITAL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "935",
         "classification": "2.1.1.01.412",
         "name": "BR PONTO COMERCIO E MANUTENCAO DE RELOGI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "936",
         "classification": "2.1.1.01.413",
         "name": "ORTEP SEG ORGANIZACAO TECNICA DE PRECISA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "937",
         "classification": "2.1.1.01.414",
         "name": "FRIOMINAS MAQUINAS REPRESENTACOES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "940",
         "classification": "2.1.1.01.415",
         "name": "ORTEP SEG - ORG. TEC. DE PRECISAO EM SEG",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "941",
         "classification": "2.1.1.01.416",
         "name": "PECAS TURIM LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "942",
         "classification": "2.1.1.01.417",
         "name": "DISTRIBUIDORA DE FRUTAS NORTE MINAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "943",
         "classification": "2.1.1.01.418",
         "name": "DISTRIBUIDORA DE LEGUMES CEU AZUL LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "944",
         "classification": "2.1.1.01.419",
         "name": "CEREALISTA CRIS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "945",
         "classification": "2.1.1.01.420",
         "name": "RETIFICA FMS MOTORES LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "946",
         "classification": "2.1.1.01.421",
         "name": "IMA BORRACHAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "947",
         "classification": "2.1.1.01.422",
         "name": "IMPERIO EQUIPAMENTOS DE SEGURANCA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "950",
         "classification": "2.1.1.01.423",
         "name": "COMERCIO DE VERDURAS FERNANDES GUIMARAES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "951",
         "classification": "2.1.1.01.424",
         "name": "5 ESTRELAS UNIAO DE PROD AGRICOLA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "952",
         "classification": "2.1.1.01.425",
         "name": "SUZANE PEREIRA - SITIO SAO JOSE",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "953",
         "classification": "2.1.1.01.426",
         "name": "RS EMBREAGEM LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "954",
         "classification": "2.1.1.01.427",
         "name": "POSTO DE TROCA SALGADO FILHO SERVICOS AU",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "955",
         "classification": "2.1.1.01.428",
         "name": "DISTRIBUIDORA DE FRUTAS LUCATO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "957",
         "classification": "2.1.1.01.429",
         "name": "IPE DISTRIBUIDORA DE ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "958",
         "classification": "2.1.1.01.430",
         "name": "POLIPNEUS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "959",
         "classification": "2.1.1.01.431",
         "name": "23.465.158 ANAMAR GONCALVES MOREIRA DE A",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "960",
         "classification": "2.1.1.01.432",
         "name": "CATHO ONLINE LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "961",
         "classification": "2.1.1.01.433",
         "name": "FORNECEDORA PERFA COM. ATAC. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "962",
         "classification": "2.1.1.01.434",
         "name": "ALVES MARIA E OLIVEIRA COMERCIO DE FRUTA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "963",
         "classification": "2.1.1.01.435",
         "name": "BENASSI SAO PAULO IMP E EXP LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "964",
         "classification": "2.1.1.01.436",
         "name": "DOIS SABORES COMERCIO ATACADISTA LTDA.",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "965",
         "classification": "2.1.1.01.437",
         "name": "FRUITMIX COMERCIO IMPORTACAO E EXPORTACA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "966",
         "classification": "2.1.1.01.438",
         "name": "APAIL DIESEL AUTOPECAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "967",
         "classification": "2.1.1.01.439",
         "name": "TKTL INFORMATICA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "968",
         "classification": "2.1.1.01.440",
         "name": "MARACY IMOVEIS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "969",
         "classification": "2.1.1.01.441",
         "name": "PERCY JEAN SCHUCKO 61156043620",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "970",
         "classification": "2.1.1.01.442",
         "name": "TKTL INFORMATICA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "971",
         "classification": "2.1.1.01.443",
         "name": "OTHON DE CARVALHO CIA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "972",
         "classification": "2.1.1.01.444",
         "name": "VAZ TINTAS COMERCIO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "974",
         "classification": "2.1.1.01.445",
         "name": "IMPERVIA MANTAS & IMPERMEABILIZACOES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "975",
         "classification": "2.1.1.01.446",
         "name": "CASA UNICA MATERIAIS PARA CONSTRUCAO LTD",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "976",
         "classification": "2.1.1.01.447",
         "name": "BHZ EPI DISTRIBUIDORA LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "977",
         "classification": "2.1.1.01.448",
         "name": "NOVA EMBU COMERCIO DE VERDURAS E LEGUMES",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "978",
         "classification": "2.1.1.01.449",
         "name": "AGRO ALIMENTOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "979",
         "classification": "2.1.1.01.450",
         "name": "SODEXO PASS DO BRASIL SERVICOS E COMERCI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "980",
         "classification": "2.1.1.01.451",
         "name": "MICROSOFT DO BRASIL IMPORTACAO E COMERCI",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "981",
         "classification": "2.1.1.01.452",
         "name": "BEM DISTRIBUIDORA DE FRUTAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "982",
         "classification": "2.1.1.01.453",
         "name": "AGRONEGOCIO MAGARETTO LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "983",
         "classification": "2.1.1.01.454",
         "name": "VANDIESEL PEÇAS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "984",
         "classification": "2.1.1.01.455",
         "name": "JB PNEUS &amp; ACESSORIOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "985",
         "classification": "2.1.1.01.456",
         "name": "JB MULTI SERVICOS LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "986",
         "classification": "2.1.1.01.457",
         "name": "AUTO MONOBLOCO CONTAGEM LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "987",
         "classification": "2.1.1.01.458",
         "name": "POMAR NOVO IMP. E EXP. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "988",
         "classification": "2.1.1.01.459",
         "name": "CROMUS EMBALAGENS IND. E COM. LTDA",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "199",
         "classification": "2.1.1.02.001",
         "name": "Adiantamento de Clientes",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "201",
         "classification": "2.1.1.03.001",
         "name": "Conta Garantida Itau",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "744",
         "classification": "2.1.1.03.002",
         "name": "Empréstimo Capital Giro",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "837",
         "classification": "2.1.1.03.003",
         "name": "(-)  Empréstimo Capital Giro",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "203",
         "classification": "2.1.1.04.001",
         "name": "luciano Melo Gontijo",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "207",
         "classification": "2.1.1.05.003",
         "name": "Inss a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "208",
         "classification": "2.1.1.05.004",
         "name": "Fgts a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "209",
         "classification": "2.1.1.05.005",
         "name": "Contribuição Sindical a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "210",
         "classification": "2.1.1.05.006",
         "name": "Contribuição Confederativa a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "226",
         "classification": "2.1.1.05.007",
         "name": "Salários e Encargos a Pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "227",
         "classification": "2.1.1.05.008",
         "name": "Pro-labore a Pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "436",
         "classification": "2.1.1.05.009",
         "name": "Mensalidade Sindical a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "221",
         "classification": "2.1.1.05.010",
         "name": "Ir S/ Folha de Pagto",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "623",
         "classification": "2.1.1.05.011",
         "name": "Pensão alimentícia a Pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "748",
         "classification": "2.1.1.05.012",
         "name": "Dividendos a Pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "556",
         "classification": "2.1.1.05.013",
         "name": "Provisão Férias",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "557",
         "classification": "2.1.1.05.014",
         "name": "Provisão INSS s/Férias",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "558",
         "classification": "2.1.1.05.015",
         "name": "Provisão FGTS s/Férias",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "559",
         "classification": "2.1.1.05.016",
         "name": "Provisão 13º Salário",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "560",
         "classification": "2.1.1.05.017",
         "name": "Provisão INSS s/13º Salário",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "561",
         "classification": "2.1.1.05.018",
         "name": "Provisão FGTS s/13º Salário",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "886",
         "classification": "2.1.1.05.019",
         "name": "Rescisão a Pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "956",
         "classification": "2.1.1.05.020",
         "name": "xxxxxxxxxx",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "215",
         "classification": "2.1.1.06.001",
         "name": "Pis / Cofins / Csll - 4,65%",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "216",
         "classification": "2.1.1.06.002",
         "name": "Irrf S/ Notas Fiscais",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "217",
         "classification": "2.1.1.06.003",
         "name": "Issqn Retido",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "218",
         "classification": "2.1.1.06.004",
         "name": "Inss Retido S/ Notas Fiscais",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "219",
         "classification": "2.1.1.06.005",
         "name": "IRRF S/ Aluguel",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "220",
         "classification": "2.1.1.06.006",
         "name": "Contribuição Previdenciária s/ Receita Bruta  CPRB",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "213",
         "classification": "2.1.1.06.008",
         "name": "ISSQN a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "212",
         "classification": "2.1.1.06.009",
         "name": "ICMS a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "205",
         "classification": "2.1.1.06.010",
         "name": "Pis a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "206",
         "classification": "2.1.1.06.011",
         "name": "Cofins a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "473",
         "classification": "2.1.1.06.012",
         "name": "Simples a Recolher",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "475",
         "classification": "2.1.1.07.013",
         "name": "Parcelamento Previdencíario",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "766",
         "classification": "2.1.1.07.014",
         "name": "Parcelamento Federal",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "772",
         "classification": "2.1.1.07.015",
         "name": "Parcelamento Divida Ativa",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "928",
         "classification": "2.1.1.07.016",
         "name": "Parcelamento Divida Ativa CSLL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "939",
         "classification": "2.1.1.07.017",
         "name": "Parcelamento Simplificado",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "948",
         "classification": "2.1.1.07.018",
         "name": "Parcelamento  Previdenciário Divida Ativa",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "223",
         "classification": "2.1.1.08.001",
         "name": "Provisão IRPJ",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "224",
         "classification": "2.1.1.08.002",
         "name": "Provisão CSLL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "746",
         "classification": "2.1.1.09.001",
         "name": "Alugueis a Pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "747",
         "classification": "2.1.1.09.002",
         "name": "Seguros a Pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "450",
         "classification": "2.1.1.09.003",
         "name": "Dividendos a pagar",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "231",
         "classification": "2.2.1.01.001",
         "name": "Fornecedores",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "233",
         "classification": "2.2.1.02.001",
         "name": "Empréstimo Capital Giro",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "838",
         "classification": "2.2.1.02.002",
         "name": "(-) Encargos  Empréstimo Capital Giro",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "235",
         "classification": "2.2.1.03.001",
         "name": "Comodato",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "925",
         "classification": "2.2.1.04.001",
         "name": "Parcelamento Previdencíario",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "926",
         "classification": "2.2.1.04.002",
         "name": "Parcelamento Federal",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "927",
         "classification": "2.2.1.04.003",
         "name": "Parcelamento Divida Ativa",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "929",
         "classification": "2.2.1.04.004",
         "name": "Parcelamento Divida Ativa CSLL",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "938",
         "classification": "2.2.1.04.005",
         "name": "Parcelamento Simplificado",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "239",
         "classification": "2.3.1.01.001",
         "name": "Luciano Melo Gontijo - 100%",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "240",
         "classification": "2.3.1.01.002",
         "name": "Domingos Savio Erthal Nicolau - 90%",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "562",
         "classification": "2.3.1.01.003",
         "name": "Capital Social",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "242",
         "classification": "2.3.1.02.001",
         "name": "(-) Capital Social a Integralizar",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "245",
         "classification": "2.3.2.01.001",
         "name": "Ágio na Emissão de Ações",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "246",
         "classification": "2.3.2.01.002",
         "name": "Reserva Especial de Ágio na Incorporação",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "247",
         "classification": "2.3.2.01.003",
         "name": "Alienação de Partes Beneficiárias",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "248",
         "classification": "2.3.2.01.004",
         "name": "Alienação de Bônus de Subscrição",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "250",
         "classification": "2.3.2.02.001",
         "name": "Reserva Legal",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "251",
         "classification": "2.3.2.02.002",
         "name": "Reservas Estatutárias",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "252",
         "classification": "2.3.2.02.003",
         "name": "Reservas Para Contingências",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "253",
         "classification": "2.3.2.02.004",
         "name": "Reservas de Lucros",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "254",
         "classification": "2.3.2.02.005",
         "name": "Reserva de Lucros para Expansão",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "255",
         "classification": "2.3.2.02.006",
         "name": "Reserva de Incentivos Fiscais",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "256",
         "classification": "2.3.2.02.007",
         "name": "Reserva Especial Dividendo Obr Não Distribuidos",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "259",
         "classification": "2.3.4.01.001",
         "name": "Ajuste de Avaliação às Normas Internacionais de Co",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "260",
         "classification": "2.3.4.01.002",
         "name": "(-) Ajuste de Avaliação às Normas Internacionais",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "449",
         "classification": "2.3.4.01.003",
         "name": "Ajuste de Exercicio",
         "nature": "I",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "263",
         "classification": "2.3.5.01.001",
         "name": "Lucros Apurados / Saldos a Disposição de Assembléi",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "264",
         "classification": "2.3.5.01.002",
         "name": "(-) Prejuízos Acumulados",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "265",
         "classification": "2.3.5.01.003",
         "name": "(-) Prejuízo Apurado Exercício",
         "nature": "D",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "267",
         "classification": "2.3.5.02.001",
         "name": "Lucros Apurados no Exercicio",
         "nature": "C",
-        "scope": "PATRIMONIAL"
+        "scope": "PATRIMÔNIO LÍQUIDO"
       },
       {
         "code": "271",
         "classification": "2.4.1.01.001",
         "name": "Bens em Comodato",
         "nature": "I",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "272",
         "classification": "2.4.1.01.002",
         "name": "Remessa para Conserto",
         "nature": "I",
-        "scope": "PATRIMONIAL"
+        "scope": "PASSIVO"
       },
       {
         "code": "277",
         "classification": "3.1.1.01.001",
         "name": "Receita Bruta de Venda Mercadorias",
         "nature": "C",
-        "scope": "OUTRO"
+        "scope": "RESULTADO"
       },
       {
         "code": "278",
         "classification": "3.1.1.01.002",
         "name": "Receita Bruta de Venda Produtos",
         "nature": "C",
-        "scope": "OUTRO"
+        "scope": "RESULTADO"
       },
       {
         "code": "279",
         "classification": "3.1.1.01.003",
         "name": "Receita Bruta de Venda Prest. Serviços",
         "nature": "C",
-        "scope": "OUTRO"
+        "scope": "RESULTADO"
       },
       {
         "code": "280",
         "classification": "3.1.1.01.004",
         "name": "Bonificação",
         "nature": "C",
-        "scope": "OUTRO"
+        "scope": "RESULTADO"
       },
       {
         "code": "283",
@@ -5400,14 +5400,14 @@
         "classification": "5.1.1.01.001",
         "name": "Apuração de Resultado",
         "nature": "I",
-        "scope": "OUTRO"
+        "scope": "RESULTADO"
       },
       {
         "code": "432",
         "classification": "5.1.2.01.001",
         "name": "Implantação de Saldos",
         "nature": "I",
-        "scope": "OUTRO"
+        "scope": "RESULTADO"
       }
     ]
   },
